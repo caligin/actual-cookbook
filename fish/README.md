@@ -2,4 +2,7 @@
 
 ## table of contents
 
-TODO generate this with some make magic
+- teriyaki salmon
+- baked salmon
+- baked fish filling
+- shioyaki mackerel

@@ -2,4 +2,7 @@
 
 ## table of contents
 
-TODO generate this with some make magic
+- tangerine stout
+- mana potion
+- angry russian
+- vodka

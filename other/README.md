@@ -2,4 +2,7 @@
 
 ## table of contents
 
-TODO generate this with some make magic
+- gyoza
+- cheeki breeki chebureki
+- okonomiyaki
+- tempura tech
