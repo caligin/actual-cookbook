@@ -1,4 +1,34 @@
 # courgette soy fritos
+
+A.k.a pasta with fried courgettes and soy sauce. I know, the pun attempt on the name of this is pathetic.
+
+Serves 1.
+
 ## ingredients
+
+- 130g pasta (penne works best imho)
+- water
+- coarse salt
+- 1 courgette
+- vegetable oil
+- 2 spn dark soy sauce
+
 ## preparation
-TODO
+
+- set pot of water on high heat to boil
+- slice courgette in discs
+- pan fry them at mid-high heat in vegetable oil until brown and crispy. this would take ~10-15 mins
+- when water boils, drop some coarse salt and pasta in the pot
+- follow instructions on pasta pack for how long it takes to cook, stir occasionally
+- drain pasta, put in a bowl, drop courgettes and dark soy sauce on top and give it a mix
+- serve
+
+## notes
+
+Do not, under any circumstances, add the pasta in the water before it's boiling.
+
+If you have a microwave with a "crisp" function, you can use that for the courgettes instead of pan prying them.
+
+I'm not sure exactly how much oil you need, I go for "enough to almost cover the surface of the pan" and it's generally alright.
+
+Watch out for the dark soy sauce, it's super easy to drop too much because it doesn't look it's much but it's probably hiding on the bottom of the bowl and would make your pasta soggy and ridiculously salty.

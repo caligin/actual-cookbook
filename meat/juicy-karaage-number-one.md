@@ -10,14 +10,14 @@ Not sure how many it serves, I use it as a side/snack to share.
 
 - 300g boneless chicken thigh
 - ½ coffeespn soy sauce
-- ½ tbsp sake
+- ½ spn sake
 - ¼ coffeespn salt
 - pepper pepper pepper
 - 1 coffeespn grated ginger
 - 1 coffeespn grated garlic
 - ½ coffeespn sesame oil
 - ½ beaten egg
-- 2½ tbsp corn flour/corn starch (whichever you call it)
+- 2½ spn corn flour/corn starch (whichever you call it)
 - vegetable oil
 
 ## preparation
