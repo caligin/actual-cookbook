@@ -33,6 +33,7 @@ Serves *some*, depending on how much pork you get.
 - use bowl of water to get rid of air
 - massage to have the meat covered in sauce uniformly
 - leave in fridge overnight
+- add some cornflour in the bag and massage to even out
 - place pork on oven tray with some foil and pour the remainder sauce in a bowl
 - bake for ~120 min at 200C flipping over every 10 min
 - after the first two turns start brushing the sauce on the surface everytime you flip

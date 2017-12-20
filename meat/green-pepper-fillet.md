@@ -1,6 +1,6 @@
 # green pepper fillet
 
-Credits to @sbaruzza for this recipe.
+Credits to [@sbaruzza](https://github.com/sbaruzza) for this recipe.
 
 Here in the uk there is this ridiculous tradition of getting a perfectly fine steak, politely (and by poliltey I mean passive-aggressively) send it back to the kitchen because it was too exactly-rare-as-you-asked, get the same exact steak back from the kitchen 5 minutes later, rejoice for having contributed to right the wrongs of the world and then *pour a generous amout of a peppercorn sauce you ordered on the side on your steak of justice, just enough to completely drown it*.
 

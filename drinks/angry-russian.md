@@ -16,9 +16,9 @@ White russian, but with foamy milk.
 
 ## preparation
 
-Throw kalhua, vodka in a glass (old fahioned glass works best)
+Throw kalhua, vodka and ice in a glass (old fahioned glass works best)
 
-Throw milk in shaker with ice and shake angrily. After a while some milk will still be liquid and not foamy, use the strainer to pour it in a second container/glass, then remove the strainer and slowly pour the faomy milk in the glass. If it has the right consistency it will layer effortlessly. Repeat shaking with the remaining milk.
+Throw milk in shaker with ice and shake angrily. After a while some milk will still be liquid and not foamy, use the strainer to pour it in a second container/glass, then remove the strainer and slowly pour the foamy milk in the glass. If it has the right consistency it will layer effortlessly. Repeat shaking with the remaining milk.
 
 ## notes
 
