@@ -7,7 +7,6 @@ Serves 1.
 ## ingredients
 
 - 130g pasta (penne works best imho)
-- water
 - coarse salt
 - 1 courgette
 - vegetable oil

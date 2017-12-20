@@ -7,6 +7,7 @@ Serves 2.
 ## ingredients
 
 - 250g tortelloni
+- coarse salt
 - 2 garlic cloves
 - a cube of butter (~10g)
 - 150ml double cream
@@ -39,3 +40,5 @@ Do not, under any circumstances, add the tortelloni in the water before it's boi
 My go-to tortelloni are the chorizo-filled you can find in uk's tescos but use whichever filling you like the most. Or tortellini. Or cappelletti. or whatever you feel like.
 
 If your pan is big enough, you can pour the drained tortelloni in the pan with sauce and give them a stir while still on low heat instead of using a bowl. Not sure it makes much difference but feels fancier.
+
+I specified 1 spn parsley assuming that you have some kind of dried parsley but if you have it fresh use that, it's way better.

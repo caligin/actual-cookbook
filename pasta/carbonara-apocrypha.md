@@ -13,7 +13,6 @@ Serves 1.
 - a pinch white pepper
 - a pinch curry powder
 - pepper pepper pepper
-- water
 - coarse salt
 - 1 coffespn oil
 

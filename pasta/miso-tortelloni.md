@@ -7,6 +7,7 @@ Serves 2.
 ## ingredients
 
 - 250g tortelloni
+- coarse salt
 - 2 garlic cloves
 - a cube of butter (~10g)
 - 1 spn mirin
