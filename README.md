@@ -72,6 +72,8 @@ Some recipes are still wip or just placeholders, be patient!
 
 ### drinks
 
+- [truffle stout](https://github.com/caligin/actual-cookbook/tree/master/drinks/truffle-stout.md)
+- [espresso martini](https://github.com/caligin/actual-cookbook/tree/master/drinks/espresso-martini.md)
 - [angry russian](https://github.com/caligin/actual-cookbook/tree/master/drinks/angry-russian.md)
 - [vodka](https://github.com/caligin/actual-cookbook/tree/master/drinks/vodka.md)
 - [tangerine stout](https://github.com/caligin/actual-cookbook/tree/master/drinks/tangerine-stout.md)

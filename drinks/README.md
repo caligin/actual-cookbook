@@ -2,7 +2,9 @@
 
 ## table of contents
 
-- tangerine stout
-- mana potion
+- truffle stout
+- espresso martini
 - angry russian
 - vodka
+- tangerine stout
+- mana potion
