@@ -22,6 +22,6 @@ Throw milk in shaker with ice and shake angrily. After a while some milk will st
 
 ## notes
 
-I tend to use double measures.
+I tend to use double measures. Note that this serves 2, trying to pour it all in a single glass will make it so there's so much milk on the top that you can't reach the alcohol on bottom.
 
 Don't forget to remove the milk that is still liquid before pouring or it will ruin the layering
