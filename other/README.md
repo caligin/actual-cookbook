@@ -2,7 +2,8 @@
 
 ## table of contents
 
-- gyoza
-- cheeki breeki chebureki
 - okonomiyaki
+- tricky takoyaki
+- cheeki breeki chebureki
 - tempura tech
+- gyoza

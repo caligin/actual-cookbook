@@ -2,11 +2,12 @@
 
 ## table of contents
 
-- carbonara/apocrypha
-- courgette soy fritos
-- creamy mushroom tortelloni
-- sage tortellini
-- creamy mushroom tortelloni <chili>
-- notcina
-- miso tortelloni
 - pastapascul
+- courgette soy fritos
+- notcina
+- carbonara/apocrypha
+- miso tortelloni
+- creamy mushroom tortelloni
+- creamy mushroom tortelloni <chili>
+- sage tortellini
+- pelmeni

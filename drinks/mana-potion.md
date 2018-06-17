@@ -5,13 +5,13 @@ There are many ways to prepare this and everything is legit as long as it looks 
 ## tools
 
 - shaker
-- (optional) jigger for the measures
+- jigger for the measures
 
 ## ingredients
 
-- 1 measure blue curacao
-- 1 measure vodka (used the lone wolf one for this but russian standard works perfectly too)
-- 1 measure lemon juice
+- 1 bjig blue curacao
+- 1 bjig vodka (used the lone wolf one for this but russian standard works perfectly too)
+- 1 bjig lemon juice
 - ice
 
 ## preparation

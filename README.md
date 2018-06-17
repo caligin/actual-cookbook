@@ -15,9 +15,14 @@ I can't possibly deal with `tsp` and `tbsp`, I keep forgetting which one is whic
 I'm not sorry for the confusion caused.
 
 ```
-1 tbsp = 1 spn,
-1 tsp  = 1 coffeespn.
+1 tbsp = 1 spn
+1 tsp  = 1 coffeespn
+```
 
+For cocktails, the measuraments are given based on measures of (my) jigger. I have no idea whether those are standard measures.
+```
+1 sjig = 20ml
+1 bjig = 30ml
 ```
 
 ## navigating this repo
@@ -38,13 +43,16 @@ Some recipes are still wip or just placeholders, be patient!
 ### other
 
 - [okonomiyaki](https://github.com/caligin/actual-cookbook/tree/master/other/okonomiyaki.md)
+- [tricky takoyaki](https://github.com/caligin/actual-cookbook/tree/master/other/tricky-takoyaki.md)
 - [cheeki breeki chebureki](https://github.com/caligin/actual-cookbook/tree/master/other/cheeki-breeki-chebureki.md)
 - [tempura tech](https://github.com/caligin/actual-cookbook/tree/master/other/tempura-tech.md)
 - [gyoza](https://github.com/caligin/actual-cookbook/tree/master/other/gyoza.md)
 
 ### meat
 
+- [randomest curry](https://github.com/caligin/actual-cookbook/tree/master/meat/cheatcode-curry.md)
 - [maboroshi tebasaki chicken](https://github.com/caligin/actual-cookbook/tree/master/meat/maboroshi-tebasaki-chicken.md)
+- [mushroom wok chicken](https://github.com/caligin/actual-cookbook/tree/master/meat/mushroom-wok-chicken.md)
 - [double greasy special](https://github.com/caligin/actual-cookbook/tree/master/meat/double-greasy-turbospecial.md)
 - [softballs](https://github.com/caligin/actual-cookbook/tree/master/meat/softballs.md)
 - [green pepper fillet](https://github.com/caligin/actual-cookbook/tree/master/meat/green-pepper-fillet.md)
@@ -69,15 +77,18 @@ Some recipes are still wip or just placeholders, be patient!
 - [creamy mushroom tortelloni](https://github.com/caligin/actual-cookbook/tree/master/pasta/creamy-mushroom-tortelloni.md)
 - [creamy mushroom tortelloni <chili>](https://github.com/caligin/actual-cookbook/tree/master/pasta/creamy-mushroom-tortelloni-chili-variant.md)
 - [sage tortellini](https://github.com/caligin/actual-cookbook/tree/master/pasta/sage-tortellini.md)
+- [pelmeni](https://github.com/caligin/actual-cookbook/tree/master/pasta/pelmeni.md)
 
 ### drinks
 
 - [truffle stout](https://github.com/caligin/actual-cookbook/tree/master/drinks/truffle-stout.md)
 - [espresso martini](https://github.com/caligin/actual-cookbook/tree/master/drinks/espresso-martini.md)
 - [angry russian](https://github.com/caligin/actual-cookbook/tree/master/drinks/angry-russian.md)
+- [sugar syrup](https://github.com/caligin/actual-cookbook/tree/master/drinks/sugar-syrup.md)
 - [vodka](https://github.com/caligin/actual-cookbook/tree/master/drinks/vodka.md)
 - [tangerine stout](https://github.com/caligin/actual-cookbook/tree/master/drinks/tangerine-stout.md)
 - [mana potion](https://github.com/caligin/actual-cookbook/tree/master/drinks/mana-potion.md)
+- [aleksandr](https://github.com/caligin/actual-cookbook/tree/master/drinks/aleksandr.md)
 
 ### sauce
 

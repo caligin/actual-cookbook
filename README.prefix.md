@@ -15,9 +15,14 @@ I can't possibly deal with `tsp` and `tbsp`, I keep forgetting which one is whic
 I'm not sorry for the confusion caused.
 
 ```
-1 tbsp = 1 spn,
-1 tsp  = 1 coffeespn.
+1 tbsp = 1 spn
+1 tsp  = 1 coffeespn
+```
 
+For cocktails, the measuraments are given based on measures of (my) jigger. I have no idea whether those are standard measures.
+```
+1 sjig = 20ml
+1 bjig = 30ml
 ```
 
 ## navigating this repo

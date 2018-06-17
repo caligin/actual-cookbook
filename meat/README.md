@@ -2,7 +2,9 @@
 
 ## table of contents
 
+- randomest curry
 - maboroshi tebasaki chicken
+- mushroom wok chicken
 - double greasy special
 - softballs
 - green pepper fillet
