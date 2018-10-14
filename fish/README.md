@@ -2,7 +2,8 @@
 
 ## table of contents
 
-- teriyaki salmon
-- baked salmon
-- baked fish filling
 - shioyaki mackerel
+- sarde in savor
+- teriyaki salmon
+- baked fish filling
+- baked salmon

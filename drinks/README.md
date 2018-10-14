@@ -2,11 +2,13 @@
 
 ## table of contents
 
-- truffle stout
 - espresso martini
-- angry russian
 - sugar syrup
-- vodka
-- tangerine stout
 - mana potion
+- tangerine stout
+- truffle stout
+- udp - unexpectedly, dark pale!
 - aleksandr
+- vodka
+- arp - amplified rice pale
+- angry russian

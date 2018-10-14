@@ -33,65 +33,77 @@ Some recipes are still wip or just placeholders, be patient!
 
 ## table of contents
 
-### fish
+### pasta
 
-- [baked fish filling](https://github.com/caligin/actual-cookbook/tree/master/fish/baked-fish-filling.md)
-- [teriyaki salmon](https://github.com/caligin/actual-cookbook/tree/master/fish/teriyaki-salmon.md)
-- [baked salmon](https://github.com/caligin/actual-cookbook/tree/master/fish/baked-salmon.md)
-- [shioyaki mackerel](https://github.com/caligin/actual-cookbook/tree/master/fish/shioyaki-mackerel.md)
-
-### other
-
-- [okonomiyaki](https://github.com/caligin/actual-cookbook/tree/master/other/okonomiyaki.md)
-- [tricky takoyaki](https://github.com/caligin/actual-cookbook/tree/master/other/tricky-takoyaki.md)
-- [cheeki breeki chebureki](https://github.com/caligin/actual-cookbook/tree/master/other/cheeki-breeki-chebureki.md)
-- [tempura tech](https://github.com/caligin/actual-cookbook/tree/master/other/tempura-tech.md)
-- [gyoza](https://github.com/caligin/actual-cookbook/tree/master/other/gyoza.md)
+- [sage tortellini](https://github.com/caligin/actual-cookbook/tree/master/pasta/sage-tortellini.md)
+- [pastapascul](https://github.com/caligin/actual-cookbook/tree/master/pasta/pascul.md)
+- [carbonara/apocrypha](https://github.com/caligin/actual-cookbook/tree/master/pasta/carbonara-apocrypha.md)
+- [creamy mushroom tortelloni <chili>](https://github.com/caligin/actual-cookbook/tree/master/pasta/creamy-mushroom-tortelloni-chili-variant.md)
+- [courgette soy fritos](https://github.com/caligin/actual-cookbook/tree/master/pasta/courgette-soy-fritos.md)
+- ['nnacacioeppepe](https://github.com/caligin/actual-cookbook/tree/master/pasta/nnacacioeppepe.md)
+- [notcina](https://github.com/caligin/actual-cookbook/tree/master/pasta/notcina.md)
+- [pelmeni](https://github.com/caligin/actual-cookbook/tree/master/pasta/pelmeni.md)
+- [miso tortelloni](https://github.com/caligin/actual-cookbook/tree/master/pasta/miso-tortelloni.md)
+- [creamy mushroom tortelloni](https://github.com/caligin/actual-cookbook/tree/master/pasta/creamy-mushroom-tortelloni.md)
 
 ### meat
 
 - [randomest curry](https://github.com/caligin/actual-cookbook/tree/master/meat/cheatcode-curry.md)
-- [maboroshi tebasaki chicken](https://github.com/caligin/actual-cookbook/tree/master/meat/maboroshi-tebasaki-chicken.md)
-- [mushroom wok chicken](https://github.com/caligin/actual-cookbook/tree/master/meat/mushroom-wok-chicken.md)
-- [double greasy special](https://github.com/caligin/actual-cookbook/tree/master/meat/double-greasy-turbospecial.md)
-- [softballs](https://github.com/caligin/actual-cookbook/tree/master/meat/softballs.md)
-- [green pepper fillet](https://github.com/caligin/actual-cookbook/tree/master/meat/green-pepper-fillet.md)
-- [herrburger](https://github.com/caligin/actual-cookbook/tree/master/meat/herrburger.md)
-- [randomest curry](https://github.com/caligin/actual-cookbook/tree/master/meat/randomest-curry.md)
-- [juicy karaage number one](https://github.com/caligin/actual-cookbook/tree/master/meat/juicy-karaage-number-one.md)
-- [char siu](https://github.com/caligin/actual-cookbook/tree/master/meat/char-siu.md)
-- [creamy garlic chicken](https://github.com/caligin/actual-cookbook/tree/master/meat/creamy-garlic-chicken.md)
-- [teriyaki chicken](https://github.com/caligin/actual-cookbook/tree/master/meat/teriyaki-chicken.md)
 - [double greasy turbo](https://github.com/caligin/actual-cookbook/tree/master/meat/double-greasy-turbo.md)
-- [low-fi chicken](https://github.com/caligin/actual-cookbook/tree/master/meat/low-fi-chicken.md)
-- [double greasy special](https://github.com/caligin/actual-cookbook/tree/master/meat/double-greasy-special.md)
+- [char siu](https://github.com/caligin/actual-cookbook/tree/master/meat/char-siu.md)
+- [teriyaki chicken](https://github.com/caligin/actual-cookbook/tree/master/meat/teriyaki-chicken.md)
+- [mushroom wok chicken](https://github.com/caligin/actual-cookbook/tree/master/meat/mushroom-wok-chicken.md)
 - [chorizo scotch eggs](https://github.com/caligin/actual-cookbook/tree/master/meat/chorizo-scotch-eggs.md)
+- [double greasy special](https://github.com/caligin/actual-cookbook/tree/master/meat/double-greasy-turbospecial.md)
+- [chasfoo](https://github.com/caligin/actual-cookbook/tree/master/meat/chasfoo.md)
+- [low-fi chicken](https://github.com/caligin/actual-cookbook/tree/master/meat/low-fi-chicken.md)
+- [juicy karaage number one](https://github.com/caligin/actual-cookbook/tree/master/meat/juicy-karaage-number-one.md)
+- [softballs](https://github.com/caligin/actual-cookbook/tree/master/meat/softballs.md)
+- [herrburger](https://github.com/caligin/actual-cookbook/tree/master/meat/herrburger.md)
+- [double greasy special](https://github.com/caligin/actual-cookbook/tree/master/meat/double-greasy-special.md)
+- [green pepper fillet](https://github.com/caligin/actual-cookbook/tree/master/meat/green-pepper-fillet.md)
+- [maboroshi tebasaki chicken](https://github.com/caligin/actual-cookbook/tree/master/meat/maboroshi-tebasaki-chicken.md)
+- [creamy garlic chicken](https://github.com/caligin/actual-cookbook/tree/master/meat/creamy-garlic-chicken.md)
+- [randomest curry](https://github.com/caligin/actual-cookbook/tree/master/meat/randomest-curry.md)
 
-### pasta
+### other
 
-- [pastapascul](https://github.com/caligin/actual-cookbook/tree/master/pasta/pascul.md)
-- [courgette soy fritos](https://github.com/caligin/actual-cookbook/tree/master/pasta/courgette-soy-fritos.md)
-- [notcina](https://github.com/caligin/actual-cookbook/tree/master/pasta/notcina.md)
-- [carbonara/apocrypha](https://github.com/caligin/actual-cookbook/tree/master/pasta/carbonara-apocrypha.md)
-- [miso tortelloni](https://github.com/caligin/actual-cookbook/tree/master/pasta/miso-tortelloni.md)
-- [creamy mushroom tortelloni](https://github.com/caligin/actual-cookbook/tree/master/pasta/creamy-mushroom-tortelloni.md)
-- [creamy mushroom tortelloni <chili>](https://github.com/caligin/actual-cookbook/tree/master/pasta/creamy-mushroom-tortelloni-chili-variant.md)
-- [sage tortellini](https://github.com/caligin/actual-cookbook/tree/master/pasta/sage-tortellini.md)
-- [pelmeni](https://github.com/caligin/actual-cookbook/tree/master/pasta/pelmeni.md)
-
-### drinks
-
-- [truffle stout](https://github.com/caligin/actual-cookbook/tree/master/drinks/truffle-stout.md)
-- [espresso martini](https://github.com/caligin/actual-cookbook/tree/master/drinks/espresso-martini.md)
-- [angry russian](https://github.com/caligin/actual-cookbook/tree/master/drinks/angry-russian.md)
-- [sugar syrup](https://github.com/caligin/actual-cookbook/tree/master/drinks/sugar-syrup.md)
-- [vodka](https://github.com/caligin/actual-cookbook/tree/master/drinks/vodka.md)
-- [tangerine stout](https://github.com/caligin/actual-cookbook/tree/master/drinks/tangerine-stout.md)
-- [mana potion](https://github.com/caligin/actual-cookbook/tree/master/drinks/mana-potion.md)
-- [aleksandr](https://github.com/caligin/actual-cookbook/tree/master/drinks/aleksandr.md)
+- [hirata buns](https://github.com/caligin/actual-cookbook/tree/master/other/hirata-buns.md)
+- [tempura tech](https://github.com/caligin/actual-cookbook/tree/master/other/tempura-tech.md)
+- [gyoza](https://github.com/caligin/actual-cookbook/tree/master/other/gyoza.md)
+- [soft boiled egg](https://github.com/caligin/actual-cookbook/tree/master/other/soft-boiled-egg.md)
+- [har gow shells](https://github.com/caligin/actual-cookbook/tree/master/other/har-gow-shells.md)
+- [cheeki breeki chebureki](https://github.com/caligin/actual-cookbook/tree/master/other/cheeki-breeki-chebureki.md)
+- [okonomiyaki](https://github.com/caligin/actual-cookbook/tree/master/other/okonomiyaki.md)
+- [aftermash cookies](https://github.com/caligin/actual-cookbook/tree/master/other/aftermash-cookies.md)
+- [pelmeni](https://github.com/caligin/actual-cookbook/tree/master/other/pelmeni.md)
+- [tricky takoyaki](https://github.com/caligin/actual-cookbook/tree/master/other/tricky-takoyaki.md)
+- [har gow](https://github.com/caligin/actual-cookbook/tree/master/other/har-gow.md)
+- [buttersoy mushrooms](https://github.com/caligin/actual-cookbook/tree/master/other/buttersoy-mushrooms.md)
 
 ### sauce
 
 - [char siu](https://github.com/caligin/actual-cookbook/tree/master/sauce/char-siu.md)
 - [teriyaki](https://github.com/caligin/actual-cookbook/tree/master/sauce/teriyaki.md)
+
+### drinks
+
+- [espresso martini](https://github.com/caligin/actual-cookbook/tree/master/drinks/espresso-martini.md)
+- [sugar syrup](https://github.com/caligin/actual-cookbook/tree/master/drinks/sugar-syrup.md)
+- [mana potion](https://github.com/caligin/actual-cookbook/tree/master/drinks/mana-potion.md)
+- [tangerine stout](https://github.com/caligin/actual-cookbook/tree/master/drinks/tangerine-stout.md)
+- [truffle stout](https://github.com/caligin/actual-cookbook/tree/master/drinks/truffle-stout.md)
+- [udp - unexpectedly, dark pale!](https://github.com/caligin/actual-cookbook/tree/master/drinks/udp.md)
+- [aleksandr](https://github.com/caligin/actual-cookbook/tree/master/drinks/aleksandr.md)
+- [vodka](https://github.com/caligin/actual-cookbook/tree/master/drinks/vodka.md)
+- [arp - amplified rice pale](https://github.com/caligin/actual-cookbook/tree/master/drinks/arp.md)
+- [angry russian](https://github.com/caligin/actual-cookbook/tree/master/drinks/angry-russian.md)
+
+### fish
+
+- [shioyaki mackerel](https://github.com/caligin/actual-cookbook/tree/master/fish/shioyaki-mackerel.md)
+- [sarde in savor](https://github.com/caligin/actual-cookbook/tree/master/fish/sarde-in-savor.md)
+- [teriyaki salmon](https://github.com/caligin/actual-cookbook/tree/master/fish/teriyaki-salmon.md)
+- [baked fish filling](https://github.com/caligin/actual-cookbook/tree/master/fish/baked-fish-filling.md)
+- [baked salmon](https://github.com/caligin/actual-cookbook/tree/master/fish/baked-salmon.md)
 

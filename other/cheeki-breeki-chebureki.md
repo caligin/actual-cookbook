@@ -8,20 +8,62 @@ Serves: a small army
 
 ## ingredients
 
-TODO
+- 250g *pork* mince
+- 1 garlic clove
+- 1/2 onion
+- 2 1cspn salt
+- 1spn pepper
+- 1cspn sunflower oil
+- 1spn dill
+- 1cspn parsley
+- 1 egg
+- 200ml water
+- 300g flour
+- 2 shots of vodka or 20
+- 1spn sugar
+- sunflower oil for deep frying
 
 ## preparation
 
-TODO
+### foundation
+
+- set aside one shot of vodka, that's for the cheburek shells. the rest is for the chef
+
+### filling
+
+- chop the onion coarsely
+- mince garlic
+- combine mince, chopped onion, 1cspn salt, pepper, dill, parsley in a bowl
+- mix with your hands
+- cover and let sit while you prepare the shells
+
+### shells
+
+- combine flour, 1cspn salt, sugar, egg, water, 1cspn oil, 1 shot vodka in a bowl
+- mix to form dough
+- knead until it's uniform enough
+- roll in a fat sausage, cut in 8 parts
+- use a rolling pin to flatten each piece to a circle/oval shape
+
+### kombine
+
+- heat a pan of oil or a deep frier, around 170c
+- divide the filling in 8 parts
+- put each portion in the middle of a shell and fold, then use a fork to press on the edges to seal the cheburek
+- deep fry until golden
+- serve with some fresh dill (if you have it) and plenty of mayonez
 
 ## notes
 
-Recipe works fine even if it's not middle of night and not cousin's place.
+Recipe works fine even if it's not middle of night or not cousin's place. And it works perfectly well with vegetable oil instead of sunflower.
 
 There's no "too big" cheburek but having them bigget than the size of your pan doesn't help.
 
-Works better with pork mince or a mix that is mainly pork.
+Works better with pork mince or a mix that is mainly pork. Actually, don't even try to use beef, it's not great and does not go that well with either the seasonings nor mayonez.
+
+If you don't have a rolling pin, you can use a bottle of vodka instead. It also adds that "nailed it" flavour to the dish that you can't really with other means.
+Just be aware that if the vodka you have is a Русский Стандарт (as I would indeed recommend), its bottle shape just sucks at being a rolling pin: using one of those would make it double hard to prepare the shells and increase the "nailed it" flavours tenfold.
 
 Well suited to last long in the freezer and serve as emergency rations.
 
-Can easily be cooked in a deep fryer, set around 170 and fry for a few (5?) minutes-ish, until golden.
+Can easily be cooked in a deep fryer, set around 170c and fry for a few (5?) minutes-ish, until golden.
