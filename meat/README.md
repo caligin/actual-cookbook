@@ -2,20 +2,20 @@
 
 ## table of contents
 
-- randomest curry
-- double greasy turbo
 - char siu
-- teriyaki chicken
-- mushroom wok chicken
-- chorizo scotch eggs
-- double greasy special
 - chasfoo
-- low-fi chicken
-- juicy karaage number one
-- softballs
-- herrburger
+- randomest curry
+- chorizo scotch eggs
+- creamy garlic chicken
+- double greasy special
+- double greasy turbo
 - double greasy special
 - green pepper fillet
+- herrburger
+- juicy karaage number one
+- low-fi chicken
 - maboroshi tebasaki chicken
-- creamy garlic chicken
+- mushroom wok chicken
 - randomest curry
+- softballs
+- teriyaki chicken
