@@ -16,8 +16,6 @@ Serves 2.
 - pepper pepper pepper
 - coarse salt
 
-## preparation
-
 
 ## preparation
 

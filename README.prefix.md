@@ -10,7 +10,9 @@ This has been inspired by [1337 Noms, the hacker's cookbook](https://github.com/
 
 Sometimes quantities are measured in unscientifical or spannometric units.
 
-I can't possibly deal with `tsp` and `tbsp`, I keep forgetting which one is which because I think it's more intuitive that the shorter symbol is the one with less qualifiers and a tablespoon is just. a. spoon. while a teaspoon has a legit qualifier. So I'll use spoons `spn` and coffeespoons `coffeespn` instead. Coffee and not tea because I find tea repulsive.
+I can't possibly deal with `tsp` and `tbsp`, I keep forgetting which one is which because I think it's more intuitive that the shorter symbol is the one with less qualifiers and a tablespoon is just. a. spoon. while a teaspoon has a legit qualifier. So I'll use spoons `spn` and coffeespoons `coffeespn` instead. Coffee and not tea because I find tea repulsive. Also:
+
+> All spoons eventually end up on a table, hence all spoons are eventually tablespoons -- *[SHWB](https://github.com/SHWB)*
 
 I'm not sorry for the confusion caused.
 
