@@ -2,15 +2,21 @@
 
 ## table of contents
 
-- hirata buns
-- tempura tech
-- gyoza
-- soft boiled egg
-- har gow shells
-- cheeki breeki chebureki
-- okonomiyaki
 - aftermash cookies
-- pelmeni
-- tricky takoyaki
-- har gow
+- amazake pancakes
 - buttersoy mushrooms
+- cheeki breeki chebureki
+- chinese pickles
+- gyoza
+- har gow
+- har gow shells
+- hirata buns
+- laksa
+- lumpia
+- mushroom larb
+- okonomiyaki
+- panna cotta
+- pelmeni
+- soft boiled egg
+- tempura tech
+- tricky takoyaki

@@ -13,6 +13,7 @@
 - green pepper fillet
 - herrburger
 - juicy karaage number one
+- lamb salsa 00ff00
 - low-fi chicken
 - maboroshi tebasaki chicken
 - mushroom wok chicken

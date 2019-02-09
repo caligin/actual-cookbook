@@ -6,9 +6,11 @@
 - courgette soy fritos
 - creamy mushroom tortelloni <chili>
 - creamy mushroom tortelloni
-- gcp tagliatelle
+- fried aubergine
+- gcp pappardelle
 - miso tortelloni
 - 'nnacacioeppepe
+- norcina/alter
 - notcina
 - pale mushroom tagliatelle
 - pastapascul

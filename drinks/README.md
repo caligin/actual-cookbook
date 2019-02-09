@@ -2,13 +2,16 @@
 
 ## table of contents
 
+- aleksandr
+- amazake smoothie
+- angry russian
+- arp - amplified rice pale
+- boosted margarita
+- bothainical garden
 - espresso martini
-- sugar syrup
 - mana potion
+- sugar syrup
 - tangerine stout
 - truffle stout
 - udp - unexpectedly, dark pale!
-- aleksandr
 - vodka
-- arp - amplified rice pale
-- angry russian
