@@ -31,3 +31,5 @@ add everything in a shaker with ice, shake, strain in the glasses.
 a double strain is recommended if you have a second, finer strainer
 
 simple syrup can be replaced with maple syrup for a funny aftertaste addition
+
+if you want to morph it to a long drink, ginger beer is the way to go
