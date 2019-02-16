@@ -10,6 +10,7 @@
 - double greasy special
 - double greasy turbo
 - double greasy special
+- glossy ribs
 - green pepper fillet
 - herrburger
 - juicy karaage number one

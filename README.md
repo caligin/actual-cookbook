@@ -71,6 +71,7 @@ Some recipes are still wip or just placeholders, be patient!
 - [double greasy special](https://github.com/caligin/actual-cookbook/tree/master/meat/double-greasy-special.md)
 - [double greasy turbo](https://github.com/caligin/actual-cookbook/tree/master/meat/double-greasy-turbo.md)
 - [double greasy special](https://github.com/caligin/actual-cookbook/tree/master/meat/double-greasy-turbospecial.md)
+- [glossy ribs](https://github.com/caligin/actual-cookbook/tree/master/meat/glossy-ribs.md)
 - [green pepper fillet](https://github.com/caligin/actual-cookbook/tree/master/meat/green-pepper-fillet.md)
 - [herrburger](https://github.com/caligin/actual-cookbook/tree/master/meat/herrburger.md)
 - [juicy karaage number one](https://github.com/caligin/actual-cookbook/tree/master/meat/juicy-karaage-number-one.md)
