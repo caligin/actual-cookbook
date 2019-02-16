@@ -100,6 +100,7 @@ Some recipes are still wip or just placeholders, be patient!
 - [okonomiyaki](https://github.com/caligin/actual-cookbook/tree/master/other/okonomiyaki.md)
 - [panna cotta](https://github.com/caligin/actual-cookbook/tree/master/other/panna-cotta.md)
 - [pelmeni](https://github.com/caligin/actual-cookbook/tree/master/other/pelmeni.md)
+- [portobello gratin](https://github.com/caligin/actual-cookbook/tree/master/other/portobello-gratin.md)
 - [soft boiled egg](https://github.com/caligin/actual-cookbook/tree/master/other/soft-boiled-egg.md)
 - [tempura tech](https://github.com/caligin/actual-cookbook/tree/master/other/tempura-tech.md)
 - [tricky takoyaki](https://github.com/caligin/actual-cookbook/tree/master/other/tricky-takoyaki.md)
