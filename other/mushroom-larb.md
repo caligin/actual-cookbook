@@ -6,7 +6,8 @@ no comment, it's just great!
 
 ## ingredients
 
-- 2boxes shiitake mushrooms
+- 300g shiitake mushrooms
+- 2 dried shiitake mushrooms
 - vegetable oil
 - roasted peanuts
 - 3 scallions
@@ -22,7 +23,7 @@ no comment, it's just great!
 
 ## preparation
 
-roast peanuts if not already roasted, give them a #roughchop. remove stems from shiitake and dice in ~5mm cubes. slice chile, shallot and scallions in rounds. grate ginger and garlic. separate the lettuce leaves.
+soak dried shiitake until softened. roast peanuts if not already roasted, give them a #roughchop. remove stems from shiitake and dice in ~5mm cubes. dice dried shiitake toegether with them. slice chile, shallot and scallions in rounds. grate ginger and garlic. separate the lettuce leaves.
 
 pour some veg oil in pan, add mushrooms, give them a quick toss to coat evenly then *don't touch them* for ~5m in which they will first loose all water then start browning on the bottom. then toss them to flip and leave for 2 more minutes & repeat until evenly browned.
 
@@ -33,6 +34,8 @@ turn off heat and add half peanuts, fish sauce, shallot, chile, mint, salt (if n
 serve with cabbage leaves and wedges on the side and some extra peanuts on top
 
 ## notes
+
+can replace shiitake for aubergine & dried shrimps, it's great!
 
 lettuce works great instead of the original cabbage b/c nice crunch
 
