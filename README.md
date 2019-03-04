@@ -41,6 +41,7 @@ Some recipes are still wip or just placeholders, be patient!
 - [amazake smoothie](https://github.com/caligin/actual-cookbook/tree/master/drinks/amazake-smoothie.md)
 - [angry russian](https://github.com/caligin/actual-cookbook/tree/master/drinks/angry-russian.md)
 - [arp - amplified rice pale](https://github.com/caligin/actual-cookbook/tree/master/drinks/arp.md)
+- [beacon mule](https://github.com/caligin/actual-cookbook/tree/master/drinks/beacon-mule.md)
 - [boosted margarita](https://github.com/caligin/actual-cookbook/tree/master/drinks/boosted-margarita.md)
 - [bothainical garden](https://github.com/caligin/actual-cookbook/tree/master/drinks/bothainical-garden.md)
 - [espresso martini](https://github.com/caligin/actual-cookbook/tree/master/drinks/espresso-martini.md)
@@ -90,7 +91,9 @@ Some recipes are still wip or just placeholders, be patient!
 - [buttersoy mushrooms](https://github.com/caligin/actual-cookbook/tree/master/other/buttersoy-mushrooms.md)
 - [cheeki breeki chebureki](https://github.com/caligin/actual-cookbook/tree/master/other/cheeki-breeki-chebureki.md)
 - [chinese pickles](https://github.com/caligin/actual-cookbook/tree/master/other/chinese-pickles.md)
+- [gochujang noodles](https://github.com/caligin/actual-cookbook/tree/master/other/gochujang-noodles.md)
 - [gyoza](https://github.com/caligin/actual-cookbook/tree/master/other/gyoza.md)
+- [gyudon](https://github.com/caligin/actual-cookbook/tree/master/other/gyudon.md)
 - [har gow](https://github.com/caligin/actual-cookbook/tree/master/other/har-gow.md)
 - [har gow shells](https://github.com/caligin/actual-cookbook/tree/master/other/har-gow-shells.md)
 - [hirata buns](https://github.com/caligin/actual-cookbook/tree/master/other/hirata-buns.md)
@@ -125,5 +128,7 @@ Some recipes are still wip or just placeholders, be patient!
 ### sauce
 
 - [char siu](https://github.com/caligin/actual-cookbook/tree/master/sauce/char-siu.md)
+- [gyoza sauce](https://github.com/caligin/actual-cookbook/tree/master/sauce/gyoza-sauce.md)
+- [okonomi sauce](https://github.com/caligin/actual-cookbook/tree/master/sauce/okonomi-sauce.md)
 - [teriyaki](https://github.com/caligin/actual-cookbook/tree/master/sauce/teriyaki.md)
 

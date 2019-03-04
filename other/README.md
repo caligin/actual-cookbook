@@ -7,7 +7,9 @@
 - buttersoy mushrooms
 - cheeki breeki chebureki
 - chinese pickles
+- gochujang noodles
 - gyoza
+- gyudon
 - har gow
 - har gow shells
 - hirata buns

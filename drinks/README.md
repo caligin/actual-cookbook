@@ -6,6 +6,7 @@
 - amazake smoothie
 - angry russian
 - arp - amplified rice pale
+- beacon mule
 - boosted margarita
 - bothainical garden
 - espresso martini

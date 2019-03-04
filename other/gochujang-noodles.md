@@ -1,4 +1,4 @@
-# TODO RENAME gochujang noodles
+# gochujang noodles
 
 serves 2
 

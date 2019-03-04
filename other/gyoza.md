@@ -6,29 +6,34 @@ Serves: 2
 
 ## ingredients
 
-- 120g pork mince
 - 100g cabbage
 - 50g onion
 - 50g chives
+- 120g pork mince
+- 3 cloves garlic
+- 1 inch piece ginger
 - 1/2 spn soysauce
 - 1/2 spn sugar
 - pepper pepper pepper
 - 1 spn sake
 - 1/2 spn sesame oil
 - 1 spn potato starch
-- 3 cloves garlic (grated)
-- 1 inch piece ginger (grated)
 - 1/2 spn oyster sauce
 - 25 Gyoza Wrappers
-- 1 tbsp Sesame Oil
 - Flour for dusting
--  - Gyoza Sauce -
-- 1 tbsp Black/White Vinegar
-- 1 tsp Soy Sauce
-- Rayu - a type of Chili Oil or Sesame Oil
+
 ## preparation
 
-TODO
+great garlic and ginger. dice fine cabbage, onion, chives.
+
+mix in a bowl pork mince, grated garlic, grated ginger, soysauce, sugar, pepper, sake, sesame oil, potato starch and oyster sauce until uniform.
+
+add cabbage, onion, chives and mix again until uniform. cover with clingfilm and let rest for at least 10-15 minutes
+
+dust flour on a tray and keeping a bowl of water for the seals, compose the gyozas scopping a spoon in each shell, applying some water around the edges and closing it.
+
+prepared boiling water. heat a pan and coat with some sesame oil.
+add gyozas, add hot water until half covered and close with a lid. cook for 4-5 minutes (or until all water evaporated), remove the lid, drizzle with some more sesame oil and cook for 2 more minutes.
 
 ## notes
 

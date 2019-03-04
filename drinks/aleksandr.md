@@ -1,6 +1,6 @@
 # aleksandr
 
-an alexander with a twist. or lack thereof, as I made this only once and I don't know which twist to add to it yet lol
+my take on an alexander
 
 ## tools
 
@@ -10,11 +10,11 @@ an alexander with a twist. or lack thereof, as I made this only once and I don't
 
 ## ingredients
 
-- 1 bjig 1 sjig gin
-- 1 bjig 1 sjig doublecream+milk mix
+- 45ml gin
+- 45ml milk
+- 15ml vanilla syrup
+- raspberry powder
 - ice
-- little more than half a sjig (~12.5ml) sugar syrup
-- some powdery thing for garnish (???)
 
 ## preparation
 
