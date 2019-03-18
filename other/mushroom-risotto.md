@@ -1,0 +1,25 @@
+# mushroom risotto
+
+serves 2
+
+## ingredients
+
+- 100ml arborio rice
+- 1 shallot
+- 150g shiitake
+- 1 handful of dried porcini
+- 50ml dry vermouth
+- 1l stock
+- olive oil
+
+## preparation
+
+put dried porcini in hot water to rehydrate. dice shallot. heat some olive oil in a pan over medium head and add diced shallot, cooking until translucent (temperature hint: the goal at this point is to have the shallot sweat, not to brown). add shiitake and sautee over high heat until browned. remove shiitake (you can leave the shallot in). add rice and vermouth and stir until rice absorbed vermouth and looks translucent at the edges. lower heat to mid, add porcini and their liquid and stir until absorbed. add stock little by little (50ml at a time-ish) and stir until absorbed before adding the next batch. after 15 minutes add shiitake back in and salt to taste. repeat adding stock until desired creaaminess/rice softness point, tipically after 20-25 minutes and  500ml of stock used. serve with a light coating of pepper and parsley.
+
+## notes
+
+rice measured in ml is weird, I know, but recipe is adapted from one in cups and I didn't do the weight conversion yet.
+
+recipe calls for 1l of stock but you are expected to use only half of it -- having loads ready is good so that if your rice absorbs too much too fast you have extras at hand and you don't risk burning everything.
+
+do not, under any circumstance, wash arborio rice. risotto rice is meant to stay starchy to create the creaminess that you want in your risotto and cleaning it would get rid of that starchiness.

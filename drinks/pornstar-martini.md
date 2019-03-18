@@ -1,0 +1,24 @@
+# pornstar martini
+
+it's not funny, it's delicious. or rather, it's so delicious it's not even funny. recipe adjusted from [crafty bartending](https://craftybartending.com/cocktail-recipes/porn-star-martini/)
+
+## ingredients
+
+- 45ml vodka
+- 15ml passoa
+- 15ml vanilla syrup
+- 15ml lime juice
+- 1 passionfruit
+- 30ml champagne
+
+## preparation
+
+mix vodka, passoa, syrup, lime juice and juice and pulp of 1 passionfruit in a shaker with ice. double strain in chilled martini or coupe glass. serve shot of champagne on side.
+
+## notes
+
+lime yield calls for roughly half a lime. if you want to be fancy a.f. you can float half a hollowed passionfruit and pour the champagne inside it.
+
+any other sparkling wine would do in absence of chapagne but would recommend a cremont or brut over a prosecco (although I'm biased and not a fan of prosecco)
+
+original recipe calls for vanilla vodka but tbh I'd rather go for plain vodka instead. russian standard and lone wolf work beutifully.
