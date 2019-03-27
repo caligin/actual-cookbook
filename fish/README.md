@@ -8,4 +8,5 @@
 - harissa snapper
 - sarde in savor
 - shioyaki mackerel
+- shrimp and basil stir fry
 - teriyaki salmon
