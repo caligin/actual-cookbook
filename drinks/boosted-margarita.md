@@ -10,10 +10,10 @@ A take on Margarita with some stronger flavours
 
 ## ingredients
 
-- 2 bjig tequila reposado
-- 1 bjig lime juice
-- 1 sjig orange cointreau
-- 1 sjig simple syrup
+- 60ml reposado tequila
+- 30ml lime juice
+- 15ml triple sec
+- 15ml simple syrup
 - 1 half lime slice for garnish
 - flake salt
 - ice
@@ -26,7 +26,7 @@ add everything in a shaker with ice, shake, strain in the glasses.
 
 ## notes
 
-1 bjig lime juice is approx 1 lime, littleless. Would recommend to put extra lime than less lime (so like for 2 people instead of 2 limes go 2.5 or even 3).
+30ml lime juice is approx 1 lime, littleless. Would recommend to put extra lime than less lime (so like for 2 people instead of 2 limes go 2.5 or even 3).
 
 a double strain is recommended if you have a second, finer strainer
 
