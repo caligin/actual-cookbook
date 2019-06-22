@@ -5,6 +5,7 @@
 - carbonara/apocrypha
 - clams linguine
 - courgette soy fritos
+- crab linguine
 - creamy mushroom tortelloni <chili>
 - creamy mushroom tortelloni
 - fried aubergine

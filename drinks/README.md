@@ -12,6 +12,7 @@
 - boosetd el chapo
 - boosted margarita
 - bothainical garden
+- boulevardier
 - coffee liqueur
 - el chapo
 - equinox alter
@@ -21,9 +22,15 @@
 - honey syrup
 - hot penicillin
 - mana potion
+- manhattan
+- mezcal sour
+- negroni
+- paloma
 - penicillin
 - pornstar martini
 - shooting star martini
+- smoky pineapple mezcal
+- south side
 - spanish russian
 - sugar syrup
 - tangerine stout

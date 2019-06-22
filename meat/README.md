@@ -2,6 +2,7 @@
 
 ## table of contents
 
+- bacon roast
 - char siu
 - chasfoo
 - randomest curry
@@ -20,5 +21,6 @@
 - maboroshi tebasaki chicken
 - mushroom wok chicken
 - randomest curry
+- savory glazed chicken
 - softballs
 - teriyaki chicken

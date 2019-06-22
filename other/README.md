@@ -10,6 +10,7 @@
 - cheeki breeki chebureki
 - chinese pickles
 - chocolate chip cookies
+- dashi
 - gochujang noodles
 - gyoza
 - gyudon
