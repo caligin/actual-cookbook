@@ -26,4 +26,4 @@ grill in oven for 3m (tomato should start drying on the edges and not be too moi
 
 ## notes
 
-![alt text](https://github.com/caligin/actual-cookbook/blob/master/img/clam-linguine.jpg "made 6 at first, then 6 more because it was too good not to!")
+![alt text](https://github.com/caligin/actual-cookbook/blob/master/img/bruschetta.jpg "made 6 at first, then 6 more because it was too good not to!")
