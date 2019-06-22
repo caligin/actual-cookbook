@@ -1,0 +1,20 @@
+# honey badger
+
+a herbal twist on a penicillin
+
+## ingredients
+
+- 11ml [ginger syrup](https://github.com/caligin/actual-cookbook/tree/master/drinks/ginger-syrup.md)
+- 11ml [honey syrup](https://github.com/caligin/actual-cookbook/tree/master/drinks/honey-syrup.md)
+- 22ml lemon juice
+- 45ml blended scotch
+- 15ml yellow chartreuse
+- rosemary sprig
+
+## preparation
+
+remove leaves of half a rosemary sprig. add rosemary leaves and scotch to shaker and muddle. add the rest of ingredients and shake with ice. double strain in a rocks glass with a big ice chunk in it. garnish with s rosemary sprig.
+
+## notes
+
+lemon yield calls for approx half a lemon

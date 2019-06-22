@@ -9,6 +9,7 @@
 - asian lady
 - basil sour
 - beacon mule
+- boosetd el chapo
 - boosted margarita
 - bothainical garden
 - coffee liqueur
@@ -16,6 +17,7 @@
 - equinox alter
 - espresso martini
 - ginger syrup
+- honey badger
 - honey syrup
 - hot penicillin
 - mana potion
@@ -29,3 +31,5 @@
 - udp - unexpectedly, dark pale!
 - vesper
 - vodka
+- white lady
+- yakushima negroni

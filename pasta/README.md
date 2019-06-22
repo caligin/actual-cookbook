@@ -3,6 +3,7 @@
 ## table of contents
 
 - carbonara/apocrypha
+- clams linguine
 - courgette soy fritos
 - creamy mushroom tortelloni <chili>
 - creamy mushroom tortelloni

@@ -4,7 +4,9 @@
 
 - aftermash cookies
 - amazake pancakes
+- bruschetta
 - buttersoy mushrooms
+- candied ginger
 - cheeki breeki chebureki
 - chinese pickles
 - chocolate chip cookies
@@ -14,6 +16,7 @@
 - har gow
 - har gow shells
 - hirata buns
+- kimchijeon
 - laksa
 - lumpia
 - mushroom larb
@@ -25,4 +28,5 @@
 - portobello gratin
 - soft boiled egg
 - tempura tech
+- tiramisu
 - tricky takoyaki

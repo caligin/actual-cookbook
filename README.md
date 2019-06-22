@@ -44,6 +44,7 @@ Some recipes are still wip or just placeholders, be patient!
 - [asian lady](https://github.com/caligin/actual-cookbook/tree/master/drinks/asian-lady.md)
 - [basil sour](https://github.com/caligin/actual-cookbook/tree/master/drinks/basil-sour.md)
 - [beacon mule](https://github.com/caligin/actual-cookbook/tree/master/drinks/beacon-mule.md)
+- [boosetd el chapo](https://github.com/caligin/actual-cookbook/tree/master/drinks/boosted-el-chapo.md)
 - [boosted margarita](https://github.com/caligin/actual-cookbook/tree/master/drinks/boosted-margarita.md)
 - [bothainical garden](https://github.com/caligin/actual-cookbook/tree/master/drinks/bothainical-garden.md)
 - [coffee liqueur](https://github.com/caligin/actual-cookbook/tree/master/drinks/coffee-liqueur.md)
@@ -51,6 +52,7 @@ Some recipes are still wip or just placeholders, be patient!
 - [equinox alter](https://github.com/caligin/actual-cookbook/tree/master/drinks/equinox-alter.md)
 - [espresso martini](https://github.com/caligin/actual-cookbook/tree/master/drinks/espresso-martini.md)
 - [ginger syrup](https://github.com/caligin/actual-cookbook/tree/master/drinks/ginger-syrup.md)
+- [honey badger](https://github.com/caligin/actual-cookbook/tree/master/drinks/honey-badger.md)
 - [honey syrup](https://github.com/caligin/actual-cookbook/tree/master/drinks/honey-syrup.md)
 - [hot penicillin](https://github.com/caligin/actual-cookbook/tree/master/drinks/hot-penicillin.md)
 - [mana potion](https://github.com/caligin/actual-cookbook/tree/master/drinks/mana-potion.md)
@@ -64,6 +66,8 @@ Some recipes are still wip or just placeholders, be patient!
 - [udp - unexpectedly, dark pale!](https://github.com/caligin/actual-cookbook/tree/master/drinks/udp.md)
 - [vesper](https://github.com/caligin/actual-cookbook/tree/master/drinks/vesper.md)
 - [vodka](https://github.com/caligin/actual-cookbook/tree/master/drinks/vodka.md)
+- [white lady](https://github.com/caligin/actual-cookbook/tree/master/drinks/white-lady.md)
+- [yakushima negroni](https://github.com/caligin/actual-cookbook/tree/master/drinks/yakushima-negroni.md)
 
 ### fish
 
@@ -103,7 +107,9 @@ Some recipes are still wip or just placeholders, be patient!
 
 - [aftermash cookies](https://github.com/caligin/actual-cookbook/tree/master/other/aftermash-cookies.md)
 - [amazake pancakes](https://github.com/caligin/actual-cookbook/tree/master/other/amazake-pancakes.md)
+- [bruschetta](https://github.com/caligin/actual-cookbook/tree/master/other/bruschetta.md)
 - [buttersoy mushrooms](https://github.com/caligin/actual-cookbook/tree/master/other/buttersoy-mushrooms.md)
+- [candied ginger](https://github.com/caligin/actual-cookbook/tree/master/other/candied-ginger.md)
 - [cheeki breeki chebureki](https://github.com/caligin/actual-cookbook/tree/master/other/cheeki-breeki-chebureki.md)
 - [chinese pickles](https://github.com/caligin/actual-cookbook/tree/master/other/chinese-pickles.md)
 - [chocolate chip cookies](https://github.com/caligin/actual-cookbook/tree/master/other/chocolate-chip-cookies.md)
@@ -113,6 +119,7 @@ Some recipes are still wip or just placeholders, be patient!
 - [har gow](https://github.com/caligin/actual-cookbook/tree/master/other/har-gow.md)
 - [har gow shells](https://github.com/caligin/actual-cookbook/tree/master/other/har-gow-shells.md)
 - [hirata buns](https://github.com/caligin/actual-cookbook/tree/master/other/hirata-buns.md)
+- [kimchijeon](https://github.com/caligin/actual-cookbook/tree/master/other/kimchijeon.md)
 - [laksa](https://github.com/caligin/actual-cookbook/tree/master/other/laksa.md)
 - [lumpia](https://github.com/caligin/actual-cookbook/tree/master/other/lumpia.md)
 - [mushroom larb](https://github.com/caligin/actual-cookbook/tree/master/other/mushroom-larb.md)
@@ -124,11 +131,13 @@ Some recipes are still wip or just placeholders, be patient!
 - [portobello gratin](https://github.com/caligin/actual-cookbook/tree/master/other/portobello-gratin.md)
 - [soft boiled egg](https://github.com/caligin/actual-cookbook/tree/master/other/soft-boiled-egg.md)
 - [tempura tech](https://github.com/caligin/actual-cookbook/tree/master/other/tempura-tech.md)
+- [tiramisu](https://github.com/caligin/actual-cookbook/tree/master/other/tiramisu.md)
 - [tricky takoyaki](https://github.com/caligin/actual-cookbook/tree/master/other/tricky-takoyaki.md)
 
 ### pasta
 
 - [carbonara/apocrypha](https://github.com/caligin/actual-cookbook/tree/master/pasta/carbonara-apocrypha.md)
+- [clams linguine](https://github.com/caligin/actual-cookbook/tree/master/pasta/clams-linguine.md)
 - [courgette soy fritos](https://github.com/caligin/actual-cookbook/tree/master/pasta/courgette-soy-fritos.md)
 - [creamy mushroom tortelloni <chili>](https://github.com/caligin/actual-cookbook/tree/master/pasta/creamy-mushroom-tortelloni-chili-variant.md)
 - [creamy mushroom tortelloni](https://github.com/caligin/actual-cookbook/tree/master/pasta/creamy-mushroom-tortelloni.md)
