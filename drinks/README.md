@@ -13,14 +13,17 @@
 - boosted margarita
 - bothainical garden
 - boulevardier
+- bourbon sour
 - coffee liqueur
 - el chapo
 - equinox alter
 - espresso martini
 - ginger syrup
+- grand fizz
 - honey badger
 - honey syrup
 - hot penicillin
+- maison verte clone
 - mana potion
 - manhattan
 - mezcal sour
@@ -28,7 +31,10 @@
 - paloma
 - penicillin
 - pornstar martini
+- sake martini
+- scofflaw
 - shooting star martini
+- silken
 - smoky pineapple mezcal
 - south side
 - spanish russian
@@ -38,5 +44,6 @@
 - udp - unexpectedly, dark pale!
 - vesper
 - vodka
+- whisky sour
 - white lady
 - yakushima negroni

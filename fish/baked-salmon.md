@@ -41,4 +41,3 @@ Serves 1.
 ## notes
 
 On the video they recommend regular onion to substitute the long green onion but leek works fine too. Suggested mushrooms replacement is either enoki or shiitake. I would not recommend to replace with chestnut (that are widely available in supermarkets, at least in the uk) as the taste is very different.
-

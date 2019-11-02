@@ -4,6 +4,7 @@
 
 - aftermash cookies
 - amazake pancakes
+- baozi dough
 - bruschetta
 - buttersoy mushrooms
 - candied ginger
@@ -19,14 +20,17 @@
 - hirata buns
 - kimchijeon
 - laksa
+- lamb and shrimp baozi filling
 - lumpia
 - mushroom larb
 - mushroom risotto
 - okonomiyaki
 - panna cotta
 - pelmeni
+- piadina
 - pizza dough
 - portobello gratin
+- sichuan aubergine stirfry
 - soft boiled egg
 - tempura tech
 - tiramisu

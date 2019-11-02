@@ -8,6 +8,7 @@
 - chorizo cod
 - crispy squid
 - harissa snapper
+- baked salmon
 - nduja cod
 - sarde in savor
 - shioyaki mackerel
