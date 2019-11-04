@@ -14,6 +14,7 @@
 - galbi
 - glossy ribs
 - green pepper fillet
+- grilled spicy pork meatballs
 - herrburger
 - juicy karaage number one
 - lamb salsa 00ff00
@@ -23,4 +24,5 @@
 - randomest curry
 - savory glazed chicken
 - softballs
+- spiced lamb chops
 - teriyaki chicken

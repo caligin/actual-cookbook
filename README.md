@@ -49,8 +49,10 @@ Some recipes are still wip or just placeholders, be patient!
 - [bothainical garden](https://github.com/caligin/actual-cookbook/tree/master/drinks/bothainical-garden.md)
 - [boulevardier](https://github.com/caligin/actual-cookbook/tree/master/drinks/boulevardier.md)
 - [bourbon sour](https://github.com/caligin/actual-cookbook/tree/master/drinks/bourbon-sour.md)
+- [celery gose](https://github.com/caligin/actual-cookbook/tree/master/drinks/celery-gose.md)
 - [coffee liqueur](https://github.com/caligin/actual-cookbook/tree/master/drinks/coffee-liqueur.md)
 - [el chapo](https://github.com/caligin/actual-cookbook/tree/master/drinks/el-chapo.md)
+- [el presidente](https://github.com/caligin/actual-cookbook/tree/master/drinks/el-presidente.md)
 - [equinox alter](https://github.com/caligin/actual-cookbook/tree/master/drinks/equinox-alter.md)
 - [espresso martini](https://github.com/caligin/actual-cookbook/tree/master/drinks/espresso-martini.md)
 - [ginger syrup](https://github.com/caligin/actual-cookbook/tree/master/drinks/ginger-syrup.md)
@@ -112,6 +114,7 @@ Some recipes are still wip or just placeholders, be patient!
 - [galbi](https://github.com/caligin/actual-cookbook/tree/master/meat/galbi.md)
 - [glossy ribs](https://github.com/caligin/actual-cookbook/tree/master/meat/glossy-ribs.md)
 - [green pepper fillet](https://github.com/caligin/actual-cookbook/tree/master/meat/green-pepper-fillet.md)
+- [grilled spicy pork meatballs](https://github.com/caligin/actual-cookbook/tree/master/meat/grilled-spicy-pork-meatballs.md)
 - [herrburger](https://github.com/caligin/actual-cookbook/tree/master/meat/herrburger.md)
 - [juicy karaage number one](https://github.com/caligin/actual-cookbook/tree/master/meat/juicy-karaage-number-one.md)
 - [lamb salsa 00ff00](https://github.com/caligin/actual-cookbook/tree/master/meat/lamb-salsa-00ff00.md)
@@ -121,6 +124,7 @@ Some recipes are still wip or just placeholders, be patient!
 - [randomest curry](https://github.com/caligin/actual-cookbook/tree/master/meat/randomest-curry.md)
 - [savory glazed chicken](https://github.com/caligin/actual-cookbook/tree/master/meat/savory-glazed-chicken.md)
 - [softballs](https://github.com/caligin/actual-cookbook/tree/master/meat/softballs.md)
+- [spiced lamb chops](https://github.com/caligin/actual-cookbook/tree/master/meat/spiced-lamb-chops.md)
 - [teriyaki chicken](https://github.com/caligin/actual-cookbook/tree/master/meat/teriyaki-chicken.md)
 
 ### other

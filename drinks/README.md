@@ -14,8 +14,10 @@
 - bothainical garden
 - boulevardier
 - bourbon sour
+- celery gose
 - coffee liqueur
 - el chapo
+- el presidente
 - equinox alter
 - espresso martini
 - ginger syrup
