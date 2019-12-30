@@ -29,6 +29,7 @@
 - mana potion
 - manhattan
 - mezcal sour
+- naked and famous
 - negroni
 - paloma
 - penicillin
