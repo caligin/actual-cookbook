@@ -1,4 +1,4 @@
-# baked salmon
+# lemon salmon
 
 From [Andy Makes Grilled Salmon with Lemon Sauce](https://video.bonappetit.com/watch/andy-makes-grilled-salmon-with-lemon-sauce).
 
