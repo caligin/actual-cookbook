@@ -18,7 +18,7 @@ crrrrrrrrrrunchy and great with some brick chicken. sauce: [Chicken Schnitzel wi
 
 chop celery, slice radishes, set aside. slice shallot.
 
-squeeze 1 lemon in a bowl, add shallot and season with salt. leave to rest for 10-15m. whisk in mustard and slowly add in oil, whisking to emulsify. season with more salt and pepperpepperpepper.
+squeeze 1 lemon in a bowl, add shallot, add honey and season with salt. leave to rest for 10-15m. whisk in mustard and slowly add in oil, whisking to emulsify. season with more salt and pepperpepperpepper.
 
 ## notes
 
