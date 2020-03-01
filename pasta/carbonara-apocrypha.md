@@ -1,3 +1,6 @@
+# Do not, under any circumstances, use cream in this recipe.
+
+
 # carbonara/apocrypha
 
 This is my favourite carbonara variant. Texture is so much nicer than spaghetti.
@@ -31,8 +34,6 @@ Serves 1.
 ## notes
 
 Do not, under any circumstances, add the pasta in the water before it's boiling.
-
-Do not, under any circumstances, use cream in this recipe.
 
 This recipe does not scale linearly on the number of eggs. For 2 I;d probably use 1 egg and 2 yolks rather than 2 and 2. But well, adjust to taste.
 
