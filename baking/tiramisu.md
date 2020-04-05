@@ -1,6 +1,6 @@
 # tiramisu
 
-this is my grandma's prized recipe. it'sjust. sogood.
+this is my grandma's prized recipe. it's just. sogood.
 
 ## ingredients
 
