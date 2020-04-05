@@ -1,4 +1,4 @@
-# American style pancakes
+# american style pancakes
 
 Basic pancake recipe, perfect for those lazy sunday mornings. Adapted from [bbc good food recipe](https://www.bbc.co.uk/food/recipes/fluffyamericanpancak_74828).
 

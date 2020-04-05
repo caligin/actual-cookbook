@@ -195,9 +195,12 @@ Some recipes are still wip or just placeholders, be patient!
 
 - [aftermash cookies](https://github.com/caligin/actual-cookbook/tree/master/sweets/aftermash-cookies.md)
 - [amazake pancakes](https://github.com/caligin/actual-cookbook/tree/master/sweets/amazake-pancakes.md)
-- [American style pancakes](https://github.com/caligin/actual-cookbook/tree/master/sweets/american-pancakes.md)
+- [american style pancakes](https://github.com/caligin/actual-cookbook/tree/master/sweets/american-pancakes.md)
+- [banana bread](https://github.com/caligin/actual-cookbook/tree/master/sweets/banana-bread.md)
 - [candied ginger](https://github.com/caligin/actual-cookbook/tree/master/sweets/candied-ginger.md)
+- [carrot loaf cake](https://github.com/caligin/actual-cookbook/tree/master/sweets/carrot-loaf-cake.md)
 - [chocolate chip cookies](https://github.com/caligin/actual-cookbook/tree/master/sweets/chocolate-chip-cookies.md)
+- [lemon poppy seed cake](https://github.com/caligin/actual-cookbook/tree/master/sweets/lemon-poppy-seed-cake.md)
 - [panna cotta](https://github.com/caligin/actual-cookbook/tree/master/sweets/panna-cotta.md)
 - [tiramisu](https://github.com/caligin/actual-cookbook/tree/master/sweets/tiramisu.md)
 
