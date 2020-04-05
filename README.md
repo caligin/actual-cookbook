@@ -35,6 +35,12 @@ Some recipes are still wip or just placeholders, be patient!
 
 ## table of contents
 
+### baking
+
+- [American style pancakes](https://github.com/caligin/actual-cookbook/tree/master/baking/american-pancakes.md)
+- [panna cotta](https://github.com/caligin/actual-cookbook/tree/master/baking/panna-cotta.md)
+- [tiramisu](https://github.com/caligin/actual-cookbook/tree/master/baking/tiramisu.md)
+
 ### drinks
 
 - [aleksandr](https://github.com/caligin/actual-cookbook/tree/master/drinks/aleksandr.md)
@@ -139,6 +145,7 @@ Some recipes are still wip or just placeholders, be patient!
 - [cheeki breeki chebureki](https://github.com/caligin/actual-cookbook/tree/master/other/cheeki-breeki-chebureki.md)
 - [chinese pickles](https://github.com/caligin/actual-cookbook/tree/master/other/chinese-pickles.md)
 - [chocolate chip cookies](https://github.com/caligin/actual-cookbook/tree/master/other/chocolate-chip-cookies.md)
+- [crunchy salad](https://github.com/caligin/actual-cookbook/tree/master/other/crunchy-salad.md)
 - [dashi](https://github.com/caligin/actual-cookbook/tree/master/other/dashi.md)
 - [gochujang noodles](https://github.com/caligin/actual-cookbook/tree/master/other/gochujang-noodles.md)
 - [gyoza](https://github.com/caligin/actual-cookbook/tree/master/other/gyoza.md)
@@ -153,7 +160,6 @@ Some recipes are still wip or just placeholders, be patient!
 - [mushroom larb](https://github.com/caligin/actual-cookbook/tree/master/other/mushroom-larb.md)
 - [mushroom risotto](https://github.com/caligin/actual-cookbook/tree/master/other/mushroom-risotto.md)
 - [okonomiyaki](https://github.com/caligin/actual-cookbook/tree/master/other/okonomiyaki.md)
-- [panna cotta](https://github.com/caligin/actual-cookbook/tree/master/other/panna-cotta.md)
 - [pelmeni](https://github.com/caligin/actual-cookbook/tree/master/other/pelmeni.md)
 - [piadina](https://github.com/caligin/actual-cookbook/tree/master/other/piadina.md)
 - [pizza dough](https://github.com/caligin/actual-cookbook/tree/master/other/pizza-dough.md)
@@ -161,7 +167,6 @@ Some recipes are still wip or just placeholders, be patient!
 - [sichuan aubergine stirfry](https://github.com/caligin/actual-cookbook/tree/master/other/sichuan-aubergine-stirfry.md)
 - [soft boiled egg](https://github.com/caligin/actual-cookbook/tree/master/other/soft-boiled-egg.md)
 - [tempura tech](https://github.com/caligin/actual-cookbook/tree/master/other/tempura-tech.md)
-- [tiramisu](https://github.com/caligin/actual-cookbook/tree/master/other/tiramisu.md)
 - [tricky takoyaki](https://github.com/caligin/actual-cookbook/tree/master/other/tricky-takoyaki.md)
 
 ### pasta

@@ -11,6 +11,7 @@
 - cheeki breeki chebureki
 - chinese pickles
 - chocolate chip cookies
+- crunchy salad
 - dashi
 - gochujang noodles
 - gyoza
@@ -25,7 +26,6 @@
 - mushroom larb
 - mushroom risotto
 - okonomiyaki
-- panna cotta
 - pelmeni
 - piadina
 - pizza dough
@@ -33,5 +33,4 @@
 - sichuan aubergine stirfry
 - soft boiled egg
 - tempura tech
-- tiramisu
 - tricky takoyaki
