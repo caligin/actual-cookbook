@@ -1,6 +1,6 @@
 # carrot loaf cake
 
-This recipe can also be used to make cup cakes, just adjust the cooking time and use the poke test (chopstick comes out clean) for timeing.
+This recipe can also be used to make cup cakes, just adjust the cooking time and use the poke test (chopstick comes out clean) for timing.
 
 This cake keeps well in the fridge for a few days and stays moist.
 
