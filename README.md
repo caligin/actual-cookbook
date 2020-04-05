@@ -35,12 +35,6 @@ Some recipes are still wip or just placeholders, be patient!
 
 ## table of contents
 
-### baking
-
-- [American style pancakes](https://github.com/caligin/actual-cookbook/tree/master/baking/american-pancakes.md)
-- [panna cotta](https://github.com/caligin/actual-cookbook/tree/master/baking/panna-cotta.md)
-- [tiramisu](https://github.com/caligin/actual-cookbook/tree/master/baking/tiramisu.md)
-
 ### drinks
 
 - [aleksandr](https://github.com/caligin/actual-cookbook/tree/master/drinks/aleksandr.md)
@@ -196,4 +190,14 @@ Some recipes are still wip or just placeholders, be patient!
 - [hotsweet ribs glaze](https://github.com/caligin/actual-cookbook/tree/master/sauce/hotsweet-ribs-glaze.md)
 - [okonomi sauce](https://github.com/caligin/actual-cookbook/tree/master/sauce/okonomi-sauce.md)
 - [teriyaki](https://github.com/caligin/actual-cookbook/tree/master/sauce/teriyaki.md)
+
+### sweets
+
+- [aftermash cookies](https://github.com/caligin/actual-cookbook/tree/master/sweets/aftermash-cookies.md)
+- [amazake pancakes](https://github.com/caligin/actual-cookbook/tree/master/sweets/amazake-pancakes.md)
+- [American style pancakes](https://github.com/caligin/actual-cookbook/tree/master/sweets/american-pancakes.md)
+- [candied ginger](https://github.com/caligin/actual-cookbook/tree/master/sweets/candied-ginger.md)
+- [chocolate chip cookies](https://github.com/caligin/actual-cookbook/tree/master/sweets/chocolate-chip-cookies.md)
+- [panna cotta](https://github.com/caligin/actual-cookbook/tree/master/sweets/panna-cotta.md)
+- [tiramisu](https://github.com/caligin/actual-cookbook/tree/master/sweets/tiramisu.md)
 
