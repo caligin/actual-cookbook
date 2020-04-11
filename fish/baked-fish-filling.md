@@ -7,6 +7,8 @@ This is my favourite filling for baked fish. Just fill either sea bass or sea br
 - olive oil
 - breadcrumbs
 - capers
+- garlic
+- parsley
 
 TODO figure out exact measurements. capers are just a little
 
