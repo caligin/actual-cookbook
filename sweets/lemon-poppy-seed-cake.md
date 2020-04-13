@@ -17,8 +17,8 @@ Adapted from [this recipe](https://www.homecookingadventure.com/recipes/lemon-po
 - 120g milk
 
 ## Lemon Glaze
-60ml lemon juice
-50g sugar
+- 60ml lemon juice
+- 50g sugar
 
 # Preparation
 
