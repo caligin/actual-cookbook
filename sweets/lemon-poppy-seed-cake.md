@@ -1,1 +1,41 @@
 # lemon poppy seed cake
+
+Adapted from [this recipe](https://www.homecookingadventure.com/recipes/lemon-poppy-seed-pound-cake)
+
+# Ingredients
+
+- 220g plain flour
+- 150g sugar
+- 30g poppy seeds
+- 2g salt
+- 6g baking powder
+- zest of 2 lemons
+- 75g softened butter
+- 70g vegetable oil
+- 3 eggs
+- 1 tsp vanilla extract
+- 120g milk
+
+## Lemon Glaze
+60ml lemon juice
+50g sugar
+
+# Preparation
+
+Preheat oven to 160C (fan assisted oven).
+
+Use butter or oil to grease the loaf tin and coat inside evenly with flour.
+
+Combine the flour, salt, baking powder, poppy seeds and lemon zest.
+
+In a separate bowl cream the butter with sugar and add eggs one at a time. Then add in vanilla extract and oil.
+
+Gradually add flour mixture alternating with splash of milk between each heap of flour.
+
+Pour the mixture into the prepared loaf tin.
+
+Bake for 40 - 50 minutes hour until wooden chopstick/skewer inserted into the center of the cake comes out clean.
+
+Prepare the lemon glaze when the loaf is cooling. Dissolve the sugar in lemon juice over low heat.
+
+Use a skewer to poke the cake all over the top of the loaf and brush the lemon glaze over the warm cake.
