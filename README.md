@@ -39,6 +39,7 @@ Some recipes are still wip or just placeholders, be patient!
 
 - [aleksandr](https://github.com/caligin/actual-cookbook/tree/master/drinks/aleksandr.md)
 - [amazake smoothie](https://github.com/caligin/actual-cookbook/tree/master/drinks/amazake-smoothie.md)
+- [americano](https://github.com/caligin/actual-cookbook/tree/master/drinks/americano.md)
 - [angry russian](https://github.com/caligin/actual-cookbook/tree/master/drinks/angry-russian.md)
 - [arp - amplified rice pale](https://github.com/caligin/actual-cookbook/tree/master/drinks/arp.md)
 - [asian lady](https://github.com/caligin/actual-cookbook/tree/master/drinks/asian-lady.md)

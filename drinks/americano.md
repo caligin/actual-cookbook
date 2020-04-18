@@ -1,0 +1,16 @@
+# americano
+
+I like the ratios from [Difford's](https://www.diffordsguide.com/cocktails/recipe/61/americano) for this one. I'm particular with the booze-to-soda ratio and this works well.
+
+## ingredients
+
+- 45ml campari
+- 45ml sweet vermouth
+- 75ml soda water
+- orange slice for garnish
+
+## preparation
+
+build in tall glass filled with ice. add campari and vermouth first, stir to chill and dilute. top with soda water, give a gentle stir to combine without loosing too much fizz.
+
+## notes

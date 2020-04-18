@@ -4,6 +4,7 @@
 
 - aleksandr
 - amazake smoothie
+- americano
 - angry russian
 - arp - amplified rice pale
 - asian lady
