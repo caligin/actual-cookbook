@@ -4,7 +4,7 @@ This recipe can also be used to make cup cakes, just adjust the cooking time and
 
 This cake keeps well in the fridge for a few days and stays moist.
 
-Leave marscapone out at room temp for a few hours as if you make the icing with cold soft cheese it will be lumpy.
+Leave mascarpone out at room temp for a few hours as if you make the icing with cold soft cheese it will be lumpy.
 
 To rectify lumpy icing you can whisk it a bit over a baine-marie.
 
@@ -22,8 +22,8 @@ To rectify lumpy icing you can whisk it a bit over a baine-marie.
 ## Icing
 
 - 50g butter (room temp)
-- 150g marscapone cheese (room temp)
-- 50g icing sugar,sifed
+- 150g mascarpone cheese (room temp)
+- 50g icing sugar,sifted
 - 1/2 tsp vanilla extract
 
 ## Preparation
@@ -40,5 +40,5 @@ Bake for 30 mins until the poke test passes.
 
 Let the loaf cool before icing.
 
-For the icing, beat the butter in stand mixer and then beat in the marscapone, icing sugar and mix. Ice the loaf.
+For the icing, beat the butter in stand mixer and then beat in the mascarpone, icing sugar and mix. Ice the loaf.
 
