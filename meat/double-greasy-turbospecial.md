@@ -1,4 +1,4 @@
-# double greasy special
+# double greasy turbospecial
 
 Refer to *double greasy special* and *double greasy turbo*. If you can't decide between carrots and mushrooms, well, then…
 

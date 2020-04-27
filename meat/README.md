@@ -10,7 +10,7 @@
 - creamy garlic chicken
 - double greasy special
 - double greasy turbo
-- double greasy special
+- double greasy turbospecial
 - galbi jim
 - galbi
 - glossy ribs

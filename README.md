@@ -113,7 +113,7 @@ Some recipes are still wip or just placeholders, be patient!
 - [creamy garlic chicken](https://github.com/caligin/actual-cookbook/tree/master/meat/creamy-garlic-chicken.md)
 - [double greasy special](https://github.com/caligin/actual-cookbook/tree/master/meat/double-greasy-special.md)
 - [double greasy turbo](https://github.com/caligin/actual-cookbook/tree/master/meat/double-greasy-turbo.md)
-- [double greasy special](https://github.com/caligin/actual-cookbook/tree/master/meat/double-greasy-turbospecial.md)
+- [double greasy turbospecial](https://github.com/caligin/actual-cookbook/tree/master/meat/double-greasy-turbospecial.md)
 - [galbi jim](https://github.com/caligin/actual-cookbook/tree/master/meat/galbi-jim.md)
 - [galbi](https://github.com/caligin/actual-cookbook/tree/master/meat/galbi.md)
 - [glossy ribs](https://github.com/caligin/actual-cookbook/tree/master/meat/glossy-ribs.md)
