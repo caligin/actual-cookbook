@@ -11,6 +11,7 @@
 - double greasy special
 - double greasy turbo
 - double greasy special
+- galbi jim
 - galbi
 - glossy ribs
 - green pepper fillet
