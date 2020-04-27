@@ -16,6 +16,7 @@
 - boulevardier
 - bourbon sour
 - celery gose
+- clover club
 - coffee liqueur
 - el chapo
 - el presidente

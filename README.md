@@ -51,6 +51,7 @@ Some recipes are still wip or just placeholders, be patient!
 - [boulevardier](https://github.com/caligin/actual-cookbook/tree/master/drinks/boulevardier.md)
 - [bourbon sour](https://github.com/caligin/actual-cookbook/tree/master/drinks/bourbon-sour.md)
 - [celery gose](https://github.com/caligin/actual-cookbook/tree/master/drinks/celery-gose.md)
+- [clover club](https://github.com/caligin/actual-cookbook/tree/master/drinks/clover-club.md)
 - [coffee liqueur](https://github.com/caligin/actual-cookbook/tree/master/drinks/coffee-liqueur.md)
 - [el chapo](https://github.com/caligin/actual-cookbook/tree/master/drinks/el-chapo.md)
 - [el presidente](https://github.com/caligin/actual-cookbook/tree/master/drinks/el-presidente.md)
