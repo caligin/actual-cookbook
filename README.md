@@ -137,6 +137,7 @@ Some recipes are still wip or just placeholders, be patient!
 - [amazake pancakes](https://github.com/caligin/actual-cookbook/tree/master/other/amazake-pancakes.md)
 - [baozi dough](https://github.com/caligin/actual-cookbook/tree/master/other/baozi-dough.md)
 - [bruschetta](https://github.com/caligin/actual-cookbook/tree/master/other/bruschetta.md)
+- [buckwheat galettes](https://github.com/caligin/actual-cookbook/tree/master/other/buckwheat-galettes.md)
 - [buttersoy mushrooms](https://github.com/caligin/actual-cookbook/tree/master/other/buttersoy-mushrooms.md)
 - [candied ginger](https://github.com/caligin/actual-cookbook/tree/master/other/candied-ginger.md)
 - [cheeki breeki chebureki](https://github.com/caligin/actual-cookbook/tree/master/other/cheeki-breeki-chebureki.md)

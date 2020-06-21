@@ -6,6 +6,7 @@
 - amazake pancakes
 - baozi dough
 - bruschetta
+- buckwheat galettes
 - buttersoy mushrooms
 - candied ginger
 - cheeki breeki chebureki
