@@ -22,6 +22,7 @@
 - el presidente
 - equinox alter
 - espresso martini
+- fair harvard
 - ginger syrup
 - grand fizz
 - honey badger
@@ -35,8 +36,10 @@
 - negroni
 - paloma
 - penicillin
+- pisco sour
 - pornstar martini
 - sake martini
+- sazerac
 - scofflaw
 - shooting star martini
 - silken
