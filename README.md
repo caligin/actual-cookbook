@@ -111,7 +111,7 @@ Some recipes are still wip or just placeholders, be patient!
 - [bacon roast](https://github.com/caligin/actual-cookbook/tree/master/meat/bacon-roast.md)
 - [char siu](https://github.com/caligin/actual-cookbook/tree/master/meat/char-siu.md)
 - [chasfoo](https://github.com/caligin/actual-cookbook/tree/master/meat/chasfoo.md)
-- [randomest curry](https://github.com/caligin/actual-cookbook/tree/master/meat/cheatcode-curry.md)
+- [cheatcode curry](https://github.com/caligin/actual-cookbook/tree/master/meat/cheatcode-curry.md)
 - [chorizo scotch eggs](https://github.com/caligin/actual-cookbook/tree/master/meat/chorizo-scotch-eggs.md)
 - [creamy garlic chicken](https://github.com/caligin/actual-cookbook/tree/master/meat/creamy-garlic-chicken.md)
 - [double greasy special](https://github.com/caligin/actual-cookbook/tree/master/meat/double-greasy-special.md)

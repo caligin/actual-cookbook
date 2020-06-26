@@ -1,4 +1,4 @@
-# randomest curry
+# cheatcode curry
 
 I once prepared curry boiling the beef that goes in for, like, 5 hours. using the sb golden curry thing takes, like, 5 minutes. now tell me if that's not cheating.
 

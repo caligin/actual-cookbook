@@ -5,7 +5,7 @@
 - bacon roast
 - char siu
 - chasfoo
-- randomest curry
+- cheatcode curry
 - chorizo scotch eggs
 - creamy garlic chicken
 - double greasy special
