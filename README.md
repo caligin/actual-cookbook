@@ -136,16 +136,12 @@ Some recipes are still wip or just placeholders, be patient!
 
 ### other
 
-- [aftermash cookies](https://github.com/caligin/actual-cookbook/tree/master/other/aftermash-cookies.md)
-- [amazake pancakes](https://github.com/caligin/actual-cookbook/tree/master/other/amazake-pancakes.md)
 - [baozi dough](https://github.com/caligin/actual-cookbook/tree/master/other/baozi-dough.md)
 - [bruschetta](https://github.com/caligin/actual-cookbook/tree/master/other/bruschetta.md)
 - [buckwheat galettes](https://github.com/caligin/actual-cookbook/tree/master/other/buckwheat-galettes.md)
 - [buttersoy mushrooms](https://github.com/caligin/actual-cookbook/tree/master/other/buttersoy-mushrooms.md)
-- [candied ginger](https://github.com/caligin/actual-cookbook/tree/master/other/candied-ginger.md)
 - [cheeki breeki chebureki](https://github.com/caligin/actual-cookbook/tree/master/other/cheeki-breeki-chebureki.md)
 - [chinese pickles](https://github.com/caligin/actual-cookbook/tree/master/other/chinese-pickles.md)
-- [chocolate chip cookies](https://github.com/caligin/actual-cookbook/tree/master/other/chocolate-chip-cookies.md)
 - [crunchy salad](https://github.com/caligin/actual-cookbook/tree/master/other/crunchy-salad.md)
 - [dashi](https://github.com/caligin/actual-cookbook/tree/master/other/dashi.md)
 - [gochujang noodles](https://github.com/caligin/actual-cookbook/tree/master/other/gochujang-noodles.md)
@@ -186,12 +182,11 @@ Some recipes are still wip or just placeholders, be patient!
 - [notcina](https://github.com/caligin/actual-cookbook/tree/master/pasta/notcina.md)
 - [pale mushroom tagliatelle](https://github.com/caligin/actual-cookbook/tree/master/pasta/pale-mushroom-tagliatelle.md)
 - [pastapascul](https://github.com/caligin/actual-cookbook/tree/master/pasta/pascul.md)
-- [pelmeni](https://github.com/caligin/actual-cookbook/tree/master/pasta/pelmeni.md)
 - [sage tortellini](https://github.com/caligin/actual-cookbook/tree/master/pasta/sage-tortellini.md)
 
 ### sauce
 
-- [char siu](https://github.com/caligin/actual-cookbook/tree/master/sauce/char-siu.md)
+- [char siu marinade](https://github.com/caligin/actual-cookbook/tree/master/sauce/char-siu-marinade.md)
 - [doubanjang rib glaze](https://github.com/caligin/actual-cookbook/tree/master/sauce/doubabjang-rib-glaze.md)
 - [gyoza sauce](https://github.com/caligin/actual-cookbook/tree/master/sauce/gyoza-sauce.md)
 - [hotsweet ribs glaze](https://github.com/caligin/actual-cookbook/tree/master/sauce/hotsweet-ribs-glaze.md)

@@ -2,7 +2,7 @@
 
 ## table of contents
 
-- char siu
+- char siu marinade
 - doubanjang rib glaze
 - gyoza sauce
 - hotsweet ribs glaze
