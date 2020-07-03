@@ -1,0 +1,10 @@
+[package]
+name = "cookbookc"
+version = "0.1.0"
+authors = ["0xf00 <foo@anima.tech>"]
+edition = "2018"
+
+[dependencies]
+handlebars = "3.2.1"
+serde = "1.0"
+serde_yaml = "0.8"

@@ -1,0 +1,34 @@
+recipe:
+  title: test-drink
+  section: drinks
+  tags:
+    - drink
+    - test
+    - asd
+  preparation: |
+    some text
+    and then some more text
+
+    linebreak right? ^
+    maybe a markdown [link](https://protocol.kitchen) too and *some* _emphasis_ `even`
+  ingredients:
+    - name: bourbounnn
+      amount: 60
+      unit: ml
+    - name: simple syrup
+      amount: 60
+      unit: ml
+  notes: |
+    some
+    ramblings
+
+    asdasd
+
+
+# ideas: embed other recipe (e.g. when something has a sauce that can be considered a thing on its own)
+# ideas: ref to ingredient but allow name also - that allows to e.g. say whisky referring to the type of ingredients but also specifying a specific preferred thing
+# ideas: ref to ingredient and default the unit from it (maybe can use yml references for it?)
+# ideas: fmt binary. allows to write ingredients like - 40ml something - 20 blah and it converts in longhand structure so avoid having to type everything out. OR - processor supports no-fields option
+
+
+
