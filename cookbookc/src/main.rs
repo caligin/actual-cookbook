@@ -33,8 +33,8 @@ r#"# {{recipe.title}}
 ## ingredients
 
 {{#each recipe.ingredients}}
-- {{this.amount}}{{this.unit}} {{this.name}}
-{{/each}}
+- {{this.amount}}{{this.unit}} {{this.name}}{{/each}}
+
 ## notes
 
 {{recipe.notes}}"#)?;
