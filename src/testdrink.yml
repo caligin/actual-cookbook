@@ -1,10 +1,12 @@
 recipe:
-  title: test-drink
+  title: test drink
   section: drinks
   tags:
     - drink
     - test
     - asd
+  description: |
+    some blurb about the things
   preparation: |
     some text
     and then some more text
