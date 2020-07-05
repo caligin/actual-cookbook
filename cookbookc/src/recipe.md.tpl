@@ -1,14 +1,14 @@
-# {{recipe.title}}
+# {{title}}
 
-{{recipe.description}}
+{{description}}
 ## preparation
 
-{{recipe.preparation}}
+{{preparation}}
 ## ingredients
 
-{{#each recipe.ingredients}}
+{{#each ingredients}}
 - {{this.amount}}{{this.unit}} {{this.name}}{{/each}}
 
 ## notes
 
-{{recipe.notes}}
+{{notes}}

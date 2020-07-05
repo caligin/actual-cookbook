@@ -57,8 +57,28 @@ fn render_recipes(templates: &Handlebars, data: &Vec<Value>) -> Result<(), Box<d
     for recipe in data.iter() {
         let filename = recipe["recipe"]["title"].as_str().unwrap().to_lowercase().replace(" ", "-") + ".md";
         let recipe_path = Path::new("../").join(recipe["recipe"]["section"].as_str().unwrap()).join(filename);
-        let recipe_md = format!("{}", templates.render("recipe", recipe)?);
+        let recipe_md = render_recipe(templates, recipe)?;
         File::create(recipe_path).unwrap().write_all(recipe_md.as_bytes())?;
     }
     Ok(())
+}
+
+fn render_recipe(templates: &Handlebars, data: &Value) -> Result<String, Box<dyn Error>> {
+    Ok(format!("{}", templates.render("recipe", data)?))
+}
+
+#[cfg(test)]
+mod test {
+    use super::*;
+    use serde_yaml::from_str;
+
+    // FIXME: this stuff is more like an integration test tbh, should go in /test not /sr
+    // FIXME: the tests in this form is actually needed because we're using a loose type like a value in the template
+    #[test]
+    fn recipe_renders_fully_when_all_recipe_fields_specified() {
+        let data: Value = from_str(include_str!("../fixtures/test-drink.yml")).unwrap();
+        let templates = load_templates().unwrap();
+        let got = render_recipe(&templates, &data).unwrap();
+        assert_eq!(include_str!("../fixtures/test-drink.md"), got);
+    }
 }
