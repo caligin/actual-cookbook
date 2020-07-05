@@ -31,22 +31,33 @@ fn main() -> Result<(), Box<dyn Error>> {
 }
 
 fn apply() -> Result<(), Box<dyn Error>> {
+    let reg  = load_templates()?;
+    let recipes = load_data();
+    // TODO validate that they have all required fields and structure
+    // TODO find a clever way to use tags ?
+    render_recipes(&reg, &recipes)
+}
+
+fn load_templates() -> Result<Handlebars<'static>, Box<dyn Error>> {
     let mut reg = Handlebars::new();
-    let recipes = read_dir(Path::new("../src"))
+    reg.register_template_string("recipe", include_str!("recipe.md.tpl"))?;
+    Ok(reg)
+}
+
+fn load_data() -> Vec<Value> {
+    read_dir(Path::new("../src"))
         .unwrap()
         .map(|r| r.unwrap())
         .filter(|e| e.path().extension() == Some(OsStr::new("yml")))
         .map(|e| serde_yaml::from_reader(BufReader::new(File::open(e.path()).unwrap())).unwrap())
-        .collect::<Vec<Value>>();
+        .collect::<Vec<Value>>()
+}
 
-    // TODO validate that they have all required fields and structure
-
-    // TODO find a clever way to use tags
-    reg.register_template_string("recipe", include_str!("recipe.md.tpl"))?;
-    for recipe in recipes.iter() {
+fn render_recipes(templates: &Handlebars, data: &Vec<Value>) -> Result<(), Box<dyn Error>> {
+    for recipe in data.iter() {
         let filename = recipe["recipe"]["title"].as_str().unwrap().to_lowercase().replace(" ", "-") + ".md";
         let recipe_path = Path::new("../").join(recipe["recipe"]["section"].as_str().unwrap()).join(filename);
-        let recipe_md = format!("{}", reg.render("recipe", recipe)?);
+        let recipe_md = format!("{}", templates.render("recipe", recipe)?);
         File::create(recipe_path).unwrap().write_all(recipe_md.as_bytes())?;
     }
     Ok(())
