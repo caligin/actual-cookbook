@@ -19,6 +19,7 @@ ingredients:
   - name: simple syrup
     amount: 60
     unit: ml
+  - 50blah bloh
 notes: |
   some
   ramblings

@@ -7,7 +7,7 @@
 ## ingredients
 
 {{#each ingredients}}
-- {{this.amount}}{{this.unit}} {{this.name}}{{/each}}
+- {{#if this.name}}{{this.amount}}{{this.unit}} {{this.name}}{{else}}{{this}}{{/if}}{{/each}}
 
 ## notes
 
