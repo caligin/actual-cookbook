@@ -4,17 +4,17 @@ tags:
   - meat
 description: |
   For when I planned to make karaage but then decided that I can't be bothered to fillet the chicken and wait for the marinade to settle.
-
+  
   Serves probably 2
-
+  
   ## ingredients
-
+  
   core:
   - 4-5 chicken thighs
   - pepper pepper pepper
   - salt
   - 1 spn vegetable oil
-
+  
   not-karaage plugin:
   - 1 spn soy sauce
   - 1 spn sake
@@ -38,5 +38,5 @@ ingredients:
     unit: 
 notes: |
   This actually sounds reasonably not low-fi because of the not-karaage plugin but point is: you can go as low-fi as just some salt, pepper and oil and add whatever spice you like/have available in your kitchen.
-
+  
   Just make sure that you broil the chicken istead of throwing it into the over with default settings (like, tray ad mid-height with both grills ventilated) or it will take ages to cook and won't be much crispy.
