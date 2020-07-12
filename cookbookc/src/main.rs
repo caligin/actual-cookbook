@@ -32,7 +32,7 @@ fn main() -> Result<(), Box<dyn Error>> {
 
 fn apply() -> Result<(), Box<dyn Error>> {
     let reg  = load_templates()?;
-    let recipes = load_data();
+    let recipes = load_data()?;
     // TODO validate that they have all required fields and structure
     // TODO find a clever way to use tags ?
     render_recipes(&reg, &recipes)
@@ -44,13 +44,36 @@ fn load_templates() -> Result<Handlebars<'static>, Box<dyn Error>> {
     Ok(reg)
 }
 
-fn load_data() -> Vec<Value> {
+#[derive(Debug)]
+struct LoadError {
+    path: Box<Path>,
+    source: serde_yaml::Error,
+}
+
+impl LoadError {
+    fn new(path: &Path, source: serde_yaml::Error) -> LoadError {
+        LoadError{ path: Box::from(path), source }
+    }
+}
+
+impl std::fmt::Display for LoadError {
+    fn fmt(&self, f: &mut std::fmt::Formatter) -> std::fmt::Result {
+        write!(f, "error loading file {}: ", self.path.display())?;
+        self.source.fmt(f)?;
+        Ok(())
+    }
+}
+
+impl Error for LoadError {}
+
+fn load_data() -> Result<Vec<Value>, LoadError> {
     read_dir(Path::new("../src"))
         .unwrap()
         .map(|r| r.unwrap())
         .filter(|e| e.path().extension() == Some(OsStr::new("yml")))
-        .map(|e| serde_yaml::from_reader(BufReader::new(File::open(e.path()).unwrap())).unwrap())
-        .collect::<Vec<Value>>()
+        .map(|entry| serde_yaml::from_reader(BufReader::new(File::open(entry.path()).unwrap()))
+            .map_err(|err| LoadError::new(&entry.path(), err)))
+        .collect::<Result<Vec<Value>, LoadError>>()
 }
 
 fn render_recipes(templates: &Handlebars, data: &Vec<Value>) -> Result<(), Box<dyn Error>> {
