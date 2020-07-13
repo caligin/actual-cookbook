@@ -12,6 +12,7 @@ use std::fs::File;
 use std::io::prelude::*;
 use std::io::BufReader;
 use std::path::Path;
+use std::path::PathBuf;
 
 
 fn main() -> Result<(), Box<dyn Error>> {
@@ -76,12 +77,20 @@ fn load_data() -> Result<Vec<Value>, LoadError> {
         .collect::<Result<Vec<Value>, LoadError>>()
 }
 
+fn filename_for(recipe: &Value) -> PathBuf {
+    let filename = recipe["title"].as_str().unwrap().to_lowercase().replace(" ", "-") + ".md";
+    Path::new("../").join(recipe["section"].as_str().unwrap().to_lowercase().replace(" ", "-")).join(filename)
+}
+
+fn out_file_for(recipe: &Value) -> File {
+    File::create(filename_for(recipe)).unwrap()
+}
+
 fn render_recipes(templates: &Handlebars, data: &Vec<Value>) -> Result<(), Box<dyn Error>> {
     for recipe in data.iter() {
-        let filename = recipe["recipe"]["title"].as_str().unwrap().to_lowercase().replace(" ", "-") + ".md";
-        let recipe_path = Path::new("../").join(recipe["recipe"]["section"].as_str().unwrap()).join(filename);
+        let mut out_file  = out_file_for(recipe);
         let recipe_md = render_recipe(templates, recipe)?;
-        File::create(recipe_path).unwrap().write_all(recipe_md.as_bytes())?;
+        out_file.write_all(recipe_md.as_bytes())?;
     }
     Ok(())
 }
@@ -103,5 +112,25 @@ mod test {
         let templates = load_templates().unwrap();
         let got = render_recipe(&templates, &data).unwrap();
         assert_eq!(include_str!("../fixtures/test-drink.md"), got);
+    }
+
+    #[test]
+    fn filename_for_yields_path_based_on_section_and_title() {
+        let recipe: Value = from_str(r#"
+            title: test
+            section: taste
+            "#).unwrap();
+        let got = filename_for(&recipe);
+        assert_eq!(PathBuf::new().join("../taste/test.md"), got)
+    }
+
+    #[test]
+    fn filename_for_yields_path_downcased_and_kebabcased() {
+        let recipe: Value = from_str(r#"
+            title: te ST
+            section: TaS tE
+            "#).unwrap();
+        let got = filename_for(&recipe);
+        assert_eq!(PathBuf::new().join("../tas-te/te-st.md"), got)
     }
 }
