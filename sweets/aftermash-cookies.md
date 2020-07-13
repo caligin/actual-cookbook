@@ -12,7 +12,7 @@ Shoud get approx 10 cookies out of this
 ## ingredients
 
 - 200g spent grains from mashing
-- ~100ml milk 
+- ~100ml milk
 - ~200g flour
 - ~50g butter
 - 1 lemon
@@ -28,7 +28,7 @@ Shoud get approx 10 cookies out of this
 - throw everything in a bowl except lemon and butter
 - zest the lemon peel
 - add the butter while still hot, then mix and modl on a baking tray while still warm
-- bake 20m
+- bake 20m  
 
 ## notes
 

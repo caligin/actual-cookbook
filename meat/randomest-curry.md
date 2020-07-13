@@ -4,6 +4,8 @@ My curry is the randomest thing. I think I tried to look up a convincing recipe 
 
 Serves: 1 for an entire week, you do the math.
 
+TODO (ingredients) I'm sure I'm missing something here. also, qualify "that dodgy stock thing".
+
 ## ingredients
 
 - 1 can of tomatoes
@@ -15,8 +17,6 @@ Serves: 1 for an entire week, you do the math.
 - 1 onion or 2
 - curry powder (I usually use rogan josh but whichever is your fav)
 - 1 spn corn flour or 2
-
-TODO I'm sure I'm missing something here. also, qualify "that dodgy stock thing".
 
 ## preparation
 

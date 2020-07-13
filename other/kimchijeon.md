@@ -15,3 +15,6 @@ from: https://www.maangchi.com/recipe/kimchijeon
 ## preparation
 
 chop onion, mix everything in a bowl. set a pan on high and pour the mix, spreading it thinly. cook until crispy (1-2 minutes per side)
+
+## notes
+

@@ -13,7 +13,7 @@ so I wanted to buy herring for a different thing, and got sardines by mistake in
 - 2spn sugar
 - 3spn pine seeds
 
-## prepraation
+## preparation
 
 - TODO I forgot, see the original recipe! but along the lines of:
 
@@ -27,3 +27,4 @@ so I wanted to buy herring for a different thing, and got sardines by mistake in
 - let sit in the fridge overnight
 
 ## notes
+

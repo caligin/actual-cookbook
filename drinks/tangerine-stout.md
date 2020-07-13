@@ -14,7 +14,6 @@
 
 see page 128 for the beer procedure.
 
-
 Zest the skin of 3 tangerines and use the zest to load a moka. Set it up as if you were preparing coffee, let it cool down then add in the fermenter together with wort.
 
 ## notes

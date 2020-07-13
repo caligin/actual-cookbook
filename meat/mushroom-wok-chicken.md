@@ -4,7 +4,7 @@ From [How to cook Chicken thighs with mushrooms](https://youtu.be/L9c6MLXWNew).
 
 ## ingredients
 
-TODO
+- TODO
 
 ## preparation
 

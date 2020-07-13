@@ -4,7 +4,7 @@ From: [やまちゃんの幻の手羽先♪　Spicy chicken wing♪（Maboroshin
 
 ## ingredients
 
-TODO
+- TODO
 
 ## preparation
 

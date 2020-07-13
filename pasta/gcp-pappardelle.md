@@ -20,7 +20,6 @@ feeds me and someone else
 - pepper pepper pepper
 - coarse salt
 
-
 ## preparation
 
 - mince garlic and chilli

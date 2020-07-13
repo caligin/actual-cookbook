@@ -18,7 +18,6 @@ serves how many you want as long as you throw enough ingredients in it
 - coarse salt
 - pepper pepper pepper
 
-
 ## preparation
 
 - mince garlic and parsley (not together) (and chilli if you want it) 

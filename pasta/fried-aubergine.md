@@ -13,7 +13,6 @@ Serves 2
 - coarse salt
 - table salt
 
-
 ## preparation
 
 - dice aubergine in ~5mm cubes
@@ -35,4 +34,3 @@ Serves 2
 ## notes
 
 Do not, under any circumstances, add the pasta in the water before it's boiling.
-

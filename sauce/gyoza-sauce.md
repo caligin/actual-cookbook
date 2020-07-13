@@ -1,5 +1,6 @@
 # gyoza sauce
 
+
 ## ingredients
 
 - 1 spn white vinegar
@@ -9,3 +10,6 @@
 ## preparation
 
 just mix everything together
+
+## notes
+

@@ -16,3 +16,6 @@ Enough for: tow portions of teriyaki chicken/salmon and some leftover
 
 - pour everything in a small saucepan on high heat and stir until sugar dissolved
 - leave to cool down a little before using
+
+## notes
+

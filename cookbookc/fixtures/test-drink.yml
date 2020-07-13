@@ -12,6 +12,7 @@ preparation: |
 
   linebreak right? ^
   maybe a markdown [link](https://protocol.kitchen) too and *some* _emphasis_ `even`
+  regression: no "htmlescape" <pls>!
 ingredients:
   - name: bourbounnn
     amount: 60
@@ -25,8 +26,6 @@ notes: |
   ramblings
 
   asdasd
-
-
 # ideas: embed other recipe (e.g. when something has a sauce that can be considered a thing on its own)
 # ideas: ref to ingredient but allow name also - that allows to e.g. say whisky referring to the type of ingredients but also specifying a specific preferred thing
 # ideas: ref to ingredient and default the unit from it (maybe can use yml references for it?)

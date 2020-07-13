@@ -28,4 +28,3 @@ grill ribs as desired, for a 5mm thickness takes 4 minutes per side at mid-high 
 
 ## notes
 
-

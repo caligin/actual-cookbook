@@ -86,6 +86,7 @@ fn out_file_for(recipe: &Value) -> File {
     File::create(filename_for(recipe)).unwrap()
 }
 
+// FIXME renderer should really be a struct that carries the templates with it as an impl detail...
 fn render_recipes(templates: &Handlebars, data: &Vec<Value>) -> Result<(), Box<dyn Error>> {
     for recipe in data.iter() {
         let mut out_file  = out_file_for(recipe);
