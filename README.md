@@ -35,17 +35,21 @@ Some recipes are still wip or just placeholders, be patient!
 
 ## table of contents
 
+### cookbookc
+
+- [test drink](https://github.com/caligin/actual-cookbook/tree/master/cookbookc/fixtures/test-drink.md)
+
 ### drinks
 
 - [aleksandr](https://github.com/caligin/actual-cookbook/tree/master/drinks/aleksandr.md)
 - [amazake smoothie](https://github.com/caligin/actual-cookbook/tree/master/drinks/amazake-smoothie.md)
 - [americano](https://github.com/caligin/actual-cookbook/tree/master/drinks/americano.md)
 - [angry russian](https://github.com/caligin/actual-cookbook/tree/master/drinks/angry-russian.md)
-- [arp - amplified rice pale](https://github.com/caligin/actual-cookbook/tree/master/drinks/arp.md)
+- [arp - amplified rice pale](https://github.com/caligin/actual-cookbook/tree/master/drinks/arp-amplified-rice-pale.md)
 - [asian lady](https://github.com/caligin/actual-cookbook/tree/master/drinks/asian-lady.md)
 - [basil sour](https://github.com/caligin/actual-cookbook/tree/master/drinks/basil-sour.md)
 - [beacon mule](https://github.com/caligin/actual-cookbook/tree/master/drinks/beacon-mule.md)
-- [boosetd el chapo](https://github.com/caligin/actual-cookbook/tree/master/drinks/boosted-el-chapo.md)
+- [boosted el chapo](https://github.com/caligin/actual-cookbook/tree/master/drinks/boosted-el-chapo.md)
 - [boosted margarita](https://github.com/caligin/actual-cookbook/tree/master/drinks/boosted-margarita.md)
 - [bothainical garden](https://github.com/caligin/actual-cookbook/tree/master/drinks/bothainical-garden.md)
 - [boulevardier](https://github.com/caligin/actual-cookbook/tree/master/drinks/boulevardier.md)
@@ -84,7 +88,7 @@ Some recipes are still wip or just placeholders, be patient!
 - [sugar syrup](https://github.com/caligin/actual-cookbook/tree/master/drinks/sugar-syrup.md)
 - [tangerine stout](https://github.com/caligin/actual-cookbook/tree/master/drinks/tangerine-stout.md)
 - [truffle stout](https://github.com/caligin/actual-cookbook/tree/master/drinks/truffle-stout.md)
-- [udp - unexpectedly, dark pale!](https://github.com/caligin/actual-cookbook/tree/master/drinks/udp.md)
+- [udp - unexpectedly, dark pale!](https://github.com/caligin/actual-cookbook/tree/master/drinks/udp-unexpectedly-dark-pale.md)
 - [vesper](https://github.com/caligin/actual-cookbook/tree/master/drinks/vesper.md)
 - [vodka](https://github.com/caligin/actual-cookbook/tree/master/drinks/vodka.md)
 - [whisky sour](https://github.com/caligin/actual-cookbook/tree/master/drinks/whisky-sour.md)
@@ -103,7 +107,7 @@ Some recipes are still wip or just placeholders, be patient!
 - [nduja cod](https://github.com/caligin/actual-cookbook/tree/master/fish/nduja-cod.md)
 - [sarde in savor](https://github.com/caligin/actual-cookbook/tree/master/fish/sarde-in-savor.md)
 - [shioyaki mackerel](https://github.com/caligin/actual-cookbook/tree/master/fish/shioyaki-mackerel.md)
-- [shrimp and basil stir fry](https://github.com/caligin/actual-cookbook/tree/master/fish/shrimp-and-basil-stirfry.md)
+- [shrimp and basil stir fry](https://github.com/caligin/actual-cookbook/tree/master/fish/shrimp-and-basil-stir-fry.md)
 - [teriyaki salmon](https://github.com/caligin/actual-cookbook/tree/master/fish/teriyaki-salmon.md)
 
 ### meat
@@ -172,7 +176,7 @@ Some recipes are still wip or just placeholders, be patient!
 - [clams linguine](https://github.com/caligin/actual-cookbook/tree/master/pasta/clams-linguine.md)
 - [courgette soy fritos](https://github.com/caligin/actual-cookbook/tree/master/pasta/courgette-soy-fritos.md)
 - [crab linguine](https://github.com/caligin/actual-cookbook/tree/master/pasta/crab-linguine.md)
-- [creamy mushroom tortelloni <chili>](https://github.com/caligin/actual-cookbook/tree/master/pasta/creamy-mushroom-tortelloni-chili-variant.md)
+- [creamy mushroom tortelloni <chili>](https://github.com/caligin/actual-cookbook/tree/master/pasta/creamy-mushroom-tortelloni-chili.md)
 - [creamy mushroom tortelloni](https://github.com/caligin/actual-cookbook/tree/master/pasta/creamy-mushroom-tortelloni.md)
 - [fried aubergine](https://github.com/caligin/actual-cookbook/tree/master/pasta/fried-aubergine.md)
 - [gcp pappardelle](https://github.com/caligin/actual-cookbook/tree/master/pasta/gcp-pappardelle.md)
@@ -181,13 +185,13 @@ Some recipes are still wip or just placeholders, be patient!
 - [norcina/alter](https://github.com/caligin/actual-cookbook/tree/master/pasta/norcina-alter.md)
 - [notcina](https://github.com/caligin/actual-cookbook/tree/master/pasta/notcina.md)
 - [pale mushroom tagliatelle](https://github.com/caligin/actual-cookbook/tree/master/pasta/pale-mushroom-tagliatelle.md)
-- [pastapascul](https://github.com/caligin/actual-cookbook/tree/master/pasta/pascul.md)
+- [pastapascul](https://github.com/caligin/actual-cookbook/tree/master/pasta/pastapascul.md)
 - [sage tortellini](https://github.com/caligin/actual-cookbook/tree/master/pasta/sage-tortellini.md)
 
 ### sauce
 
 - [char siu marinade](https://github.com/caligin/actual-cookbook/tree/master/sauce/char-siu-marinade.md)
-- [doubanjang rib glaze](https://github.com/caligin/actual-cookbook/tree/master/sauce/doubabjang-rib-glaze.md)
+- [doubanjang rib glaze](https://github.com/caligin/actual-cookbook/tree/master/sauce/doubanjang-rib-glaze.md)
 - [gyoza sauce](https://github.com/caligin/actual-cookbook/tree/master/sauce/gyoza-sauce.md)
 - [hotsweet ribs glaze](https://github.com/caligin/actual-cookbook/tree/master/sauce/hotsweet-ribs-glaze.md)
 - [okonomi sauce](https://github.com/caligin/actual-cookbook/tree/master/sauce/okonomi-sauce.md)
@@ -197,7 +201,7 @@ Some recipes are still wip or just placeholders, be patient!
 
 - [aftermash cookies](https://github.com/caligin/actual-cookbook/tree/master/sweets/aftermash-cookies.md)
 - [amazake pancakes](https://github.com/caligin/actual-cookbook/tree/master/sweets/amazake-pancakes.md)
-- [american style pancakes](https://github.com/caligin/actual-cookbook/tree/master/sweets/american-pancakes.md)
+- [american style pancakes](https://github.com/caligin/actual-cookbook/tree/master/sweets/american-style-pancakes.md)
 - [banana bread](https://github.com/caligin/actual-cookbook/tree/master/sweets/banana-bread.md)
 - [candied ginger](https://github.com/caligin/actual-cookbook/tree/master/sweets/candied-ginger.md)
 - [carrot loaf cake](https://github.com/caligin/actual-cookbook/tree/master/sweets/carrot-loaf-cake.md)

@@ -16,5 +16,4 @@
 - notcina
 - pale mushroom tagliatelle
 - pastapascul
-- pelmeni
 - sage tortellini

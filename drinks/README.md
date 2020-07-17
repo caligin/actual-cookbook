@@ -10,7 +10,7 @@
 - asian lady
 - basil sour
 - beacon mule
-- boosetd el chapo
+- boosted el chapo
 - boosted margarita
 - bothainical garden
 - boulevardier

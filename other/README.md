@@ -2,16 +2,12 @@
 
 ## table of contents
 
-- aftermash cookies
-- amazake pancakes
 - baozi dough
 - bruschetta
 - buckwheat galettes
 - buttersoy mushrooms
-- candied ginger
 - cheeki breeki chebureki
 - chinese pickles
-- chocolate chip cookies
 - crunchy salad
 - dashi
 - gochujang noodles
