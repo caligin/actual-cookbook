@@ -19,7 +19,7 @@ serves: a full dinner for 2 but you would normally have a few as an appetizer, n
 - a pinch of salt
 - 1cspn sugar
 - a handful of bamboo shots
-- [har gow shells](https://github.com/caligin/actual-cookbook/tree/master/other/har-gow-shells.md)
+- \[har gow shells](https://github.com/caligin/actual-cookbook/tree/master/other/har-gow-shells.md)
 
 ## preparation
 

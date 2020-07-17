@@ -9,3 +9,12 @@ do pat dry before dipping or the water will make explosive oil bubbles on the 17
 try to do only 1 round at 170 maybe? suspect that a double fly is not necessary
 
 don't use too much oil on the veg or they will be soggy for a while before you manage to make it crispy
+
+## ingredients
+
+
+## preparation
+
+
+## notes
+

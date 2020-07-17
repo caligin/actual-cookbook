@@ -14,3 +14,6 @@ perfect for when you have a cold
 ## preparation
 
 add syrups, lemon juice and bourbon in a cup. top with hot water, stir then float single malt on top
+
+## notes
+

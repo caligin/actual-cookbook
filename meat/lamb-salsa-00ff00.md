@@ -8,3 +8,13 @@ recommended to use higher heat with grill first to give it a little crust then l
 replace all mint with powdered paprika and harissa instead
 
 replace mint in salsa verde with some green peppercorn in brine (if you have any)
+
+## ingredients
+
+- TODO
+
+## preparation
+
+
+## notes
+

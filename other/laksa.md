@@ -5,3 +5,13 @@ but sed s/chicken/prawns/g so refer to this too for the prawn bit https://www.th
 but before adding the second half of coconut milk remove the prawns and set aside so they don't overcook
 
 all amounts halved for 2 but actually made full amount of base and stored
+
+## ingredients
+
+- TODO
+
+## preparation
+
+
+## notes
+

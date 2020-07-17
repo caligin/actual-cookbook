@@ -1,5 +1,6 @@
 # buckwheat galettes
 
+
 Batter for the buckwheat galettes comes together super quick and easy, makes approximately 10+ galettes and batter keeps overnight.  Fill with whatever tickles your fancy but a few personal favorites:
 
 - ham, egg, gruyere
@@ -11,7 +12,7 @@ Batter for the buckwheat galettes comes together super quick and easy, makes app
 - 330g buckwheat flour
 - 1 large egg
 - 750ml water
-- pinch of salt 
+- pinch of salt
 
 ## preparation
 
@@ -26,3 +27,6 @@ Crack a whole egg in the middle of the galette and spread the egg whites with a 
 Season the galette with salt and pepper before folding the edges of the galette with a spatula to form a square - leave the yolk and some toppings around the yolk exposed. Cover for 1 minute to let the cheese melt and then serve.
 
 ![alt text](https://github.com/caligin/actual-cookbook/blob/master/img/buckwheat-galette.jpg "buckwheat galette")
+
+## notes
+

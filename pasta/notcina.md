@@ -16,7 +16,6 @@ Serves 2.
 - pepper pepper pepper
 - coarse salt
 
-
 ## preparation
 
 - chop onion fine

@@ -34,7 +34,7 @@ Do not, under any circumstances, add the pasta in the water before it's boiling.
 
 Do not, under any circumstances, use cream in this recipe.
 
-This recipe does not scale linearly on the number of eggs. For 2 I;d probably use 1 egg and 2 yolks rather than 2 and 2. But well, adjust to taste.
+This recipe does not scale linearly on the number of eggs. For 2 I'd probably use 1 egg and 2 yolks rather than 2 and 2. But well, adjust to taste.
 
 If you can't find rigatoni or mezzi rigatoni and can;t decide on a replacement, the point is that it needs a shape in which the pancetta cubes can get stuck into, e.g. penne tends to be too small for this while paccheri are great. If you're one for traditions then go for spaghetti or other string-type pasta.
 

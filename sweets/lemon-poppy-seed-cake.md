@@ -2,7 +2,11 @@
 
 Adapted from [this recipe](https://www.homecookingadventure.com/recipes/lemon-poppy-seed-pound-cake)
 
-# Ingredients
+## Lemon Glaze
+- 60ml lemon juice
+- 50g sugar
+
+## ingredients
 
 - 220g plain flour
 - 150g sugar
@@ -16,11 +20,7 @@ Adapted from [this recipe](https://www.homecookingadventure.com/recipes/lemon-po
 - 1 tsp vanilla extract
 - 120g milk
 
-## Lemon Glaze
-- 60ml lemon juice
-- 50g sugar
-
-# Preparation
+## preparation
 
 Preheat oven to 160C (fan assisted oven).
 
@@ -39,3 +39,6 @@ Bake for 40 - 50 minutes hour until wooden chopstick/skewer inserted into the ce
 Prepare the lemon glaze when the loaf is cooling. Dissolve the sugar in lemon juice over low heat.
 
 Use a skewer to poke the cake all over the top of the loaf and brush the lemon glaze over the warm cake.
+
+## notes
+

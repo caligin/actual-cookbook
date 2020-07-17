@@ -17,7 +17,6 @@ Serves 2+ (2 hungry|2 + leftover for lunch|you can stretch it to 4 if you're hav
 - coarse salt
 - seasoning salt
 
-
 ## preparation
 
 - chop shallot fine

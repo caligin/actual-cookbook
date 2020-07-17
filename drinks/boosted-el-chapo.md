@@ -1,4 +1,4 @@
-# boosetd el chapo
+# boosted el chapo
 
 got the el chapo recipe wrong, turns out this is delicious
 

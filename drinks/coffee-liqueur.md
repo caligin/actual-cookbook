@@ -4,7 +4,6 @@ as seen on [cocktail chemistry](https://youtu.be/JjW8-sBejm0), noted down here f
 
 ## ingredients
 
-
 - 40g ground espresso coffee
 - 540ml water
 - 500ml dark rum

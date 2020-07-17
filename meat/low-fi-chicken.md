@@ -19,6 +19,10 @@ not-karaage plugin:
 - 2 garlic cloves
 - some ginger (equivalent in ginger of 2 garlic cloves)
 
+## ingredients
+
+- TODO
+
 ## preparation
 
 - [plugin-only step] chop or grate ginger and garlic 

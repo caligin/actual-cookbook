@@ -8,22 +8,21 @@
 
 ## ingredients
 
-  - 1kg beef short ribs (ask butcher to cut to approx 10cm chunks)
-  - 130 ml mirin/cooking sake/soju
-  - 100 ml soy sauce
-  - 900ml shitake soaking water
-  - 5 medium - large dried shitake (soak for a few hours)
-  - 30g sugar
-  - 3 - 5 tbsp gochugaru (korean pepper flakes)
-  - 10 cloves of minced garlic
-  - nub of ginger, minced
-  - black pepper
-  - 1 onion, cut into bite sized pieces
-  - 1 spring onion, finely sliced 
-  - 1 chilli, finely sliced
-  - 2 - 3 medium sized potatoes or korean radish, cut into chunks
-  - 1 - 2 carrots (optional)
-  
+- 1kg beef short ribs (ask butcher to cut to approx 10cm chunks)
+- 130 ml mirin/cooking sake/soju
+- 100 ml soy sauce
+- 900ml shitake soaking water
+- 5 medium - large dried shitake (soak for a few hours)
+- 30g sugar
+- 3 - 5 tbsp gochugaru (korean pepper flakes)
+- 10 cloves of minced garlic
+- nub of ginger, minced
+- black pepper
+- 1 onion, cut into bite sized pieces
+- 1 spring onion, finely sliced
+- 1 chilli, finely sliced
+- 2 - 3 medium sized potatoes or korean radish, cut into chunks
+- 1 - 2 carrots (optional)
 
 ## preparation
 
@@ -40,3 +39,6 @@ Cook the ribs on high heat for 30 mins, stir ribs occasionally so they do not st
 Add the potatoes/radish/carrots to the ribs and simmer for another 30 mins. Then add the onions and simmer for another 10 mins. Check your ribs are fall off the bone tender - if its still tough let the braise go on for longer.
 
 Top with spring onions and chilli for garnish. Serve with rice and kimchi.
+
+## notes
+

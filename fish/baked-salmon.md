@@ -9,6 +9,11 @@ Serves 1.
 - parchment paper
 - aluminium foil
 
+### easy ponzu
+
+- 30 ml lemon juice
+- 30 ml soy sauce
+
 ## ingredients
 
 - salmon fillet
@@ -18,11 +23,6 @@ Serves 1.
 - 30g mushrooms (mix of shimeji and maitake)
 - pepper pepper pepper
 - ½ spn butter
-
-### easy ponzu
-
-- 30 ml lemon juice
-- 30 ml soy sauce
 
 ## preparation
 

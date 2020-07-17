@@ -23,3 +23,6 @@ mix together gochuchang, sesame oil and soysauce to prepare the sauce.
 fry two eggs and set aside.
 
 stirfry kimichi
+
+## notes
+

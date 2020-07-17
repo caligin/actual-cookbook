@@ -17,3 +17,12 @@ use ridge cucumbers not cocktail cucumbers they absorb the brine waaaay better
 or ditch cucumbers altogether
 
 batch #3 we did 500mills rice vinegar 400g soft brown sugar (forgot to buy white)
+
+## ingredients
+
+
+## preparation
+
+
+## notes
+

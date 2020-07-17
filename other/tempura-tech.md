@@ -3,9 +3,13 @@
 From: [How to make Tempura - Sea bream tempura recipe - 鯛の天ぷら](https://youtu.be/EiHwtjNVyZE)
 
 ## ingredients
-TODO
+
+- TODO
+
 ## preparation
+
 TODO
+
 ## notes
 
 The interesting part is not the recipe per se but the technique, that applies to pretty much anything you want to tempura (I can use tempura as a verb right?). 

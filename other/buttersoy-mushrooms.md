@@ -15,7 +15,7 @@ serves: hmmm idk depends on how much mushrooms you add? but it's a side so just 
 - pepper
 - 1spn vegetable oil
 
-## prepraation
+## preparation
 
 - heat oil in pan
 - introduce mushrooms, saute for a couple of minutes until tender

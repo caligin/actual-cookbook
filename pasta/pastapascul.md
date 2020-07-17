@@ -18,9 +18,6 @@ Serves 2 for an entire day, or 4 for a single meal.
 
 ## preparation
 
-
-## preparation
-
 - remove skin from sausages and shred in small pieces (it's probably easier with your hands than with a knife)
 - set pot of water on high heat to boil
 - set pan at mid heat with olive oil

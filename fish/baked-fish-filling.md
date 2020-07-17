@@ -10,8 +10,10 @@ This is my favourite filling for baked fish. Just fill either sea bass or sea br
 - garlic
 - parsley
 
-TODO figure out exact measurements. capers are just a little
-
 ## preparation
 
 just mix everything together
+
+## notes
+
+TODO figure out exact measurements. capers are just a little

@@ -2,16 +2,6 @@
 
 from [Sichuan Eggplant Stir Fry (Yú Xiāng Eggplant, 鱼香茄子)](https://omnivorescookbook.com/sichuan-eggplant/), replacing eggplant with aubergine because availability.
 
-## ingredients
-
-- 2 aubergines
-- 250g minced pork
-- 1spn szechuan peppercorns
-- 4 green onions
-- 8 garlic cloves
-- 1 1inch piece ginger
-- 8-10 dried chillies (facing heaven)
-
 ### sauce
 
 - 3spn chinkiang vinegar
@@ -22,6 +12,16 @@ from [Sichuan Eggplant Stir Fry (Yú Xiāng Eggplant, 鱼香茄子)](https://omn
 - 2spn sugar
 - 1spn corn starch
 - 120ml chicken stock
+
+## ingredients
+
+- 2 aubergines
+- 250g minced pork
+- 1spn szechuan peppercorns
+- 4 green onions
+- 8 garlic cloves
+- 1 1inch piece ginger
+- 8-10 dried chillies (facing heaven)
 
 ## preparation
 

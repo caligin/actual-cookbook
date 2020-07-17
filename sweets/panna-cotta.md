@@ -13,3 +13,13 @@ reality of what I tried:
 - 33g sugar
 - 1 pack of powder gelatin diluted in 8spn and then used half of the mix
 - too much vanilla because I spilled lol
+
+## ingredients
+
+- TODO
+
+## preparation
+
+
+## notes
+

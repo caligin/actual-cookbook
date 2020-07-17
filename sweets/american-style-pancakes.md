@@ -2,18 +2,6 @@
 
 Basic pancake recipe, perfect for those lazy sunday mornings. Adapted from [bbc good food recipe](https://www.bbc.co.uk/food/recipes/fluffyamericanpancak_74828).
 
-
-## Ingredients
-
-- 135g plain flour
-- 1 tsp baking powder
-- ½ tsp salt
-- 2 tbsp brown caster sugar
-- 130ml whole milk
-- 1 large egg, lightly beaten
-- 2 tbsp melted butter (allowed to cool slightly) 
-- Rice bran oil for cooking
-  
  ### Optional toppings
 
 - Strawberries
@@ -22,7 +10,18 @@ Basic pancake recipe, perfect for those lazy sunday mornings. Adapted from [bbc 
 - Streaky bacon (fried until cripsy)
 - Vanilla greek yogurt
 
-## Preparation
+## ingredients
+
+- 135g plain flour
+- 1 tsp baking powder
+- ½ tsp salt
+- 2 tbsp brown caster sugar
+- 130ml whole milk
+- 1 large egg, lightly beaten
+- 2 tbsp melted butter (allowed to cool slightly)
+- Rice bran oil for cooking
+
+## preparation
 
 Melt butter on low heat.
 
@@ -38,4 +37,7 @@ Heat a non-stick frying pan over a medium/low heat and add a few drops of rice b
 
 Top with ingredients of choice and best served warm with lashings of maple syrup.
 
-![alt text](https://github.com/caligin/actual-cookbook/blob/master/img/pancake.jpg)
+![alt text](https://github.com/caligin/actual-cookbook/blob/master/img/pancake.jpg)  
+
+## notes
+

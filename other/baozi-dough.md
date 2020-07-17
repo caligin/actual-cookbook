@@ -10,7 +10,6 @@ makes 24 buns.
 - 4g instant yeast
 - 750g all purpose flour
 
-
 ## preparation
 
 dissolve yeast in warm water, add flour, knead to make it come together. rest for 30m covered. knead some more, then rest covered for 1.5h.
@@ -18,3 +17,4 @@ dissolve yeast in warm water, add flour, knead to make it come together. rest fo
 punch air out, give a little knead to remove all air bubbles, make a donught shape then cut in 
 
 ## notes
+
