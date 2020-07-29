@@ -1,10 +1,13 @@
 extern crate handlebars;
+extern crate serde;
 extern crate serde_yaml;
+extern crate serde_json;
 extern crate clap;
 
 use clap::{App, AppSettings, SubCommand};
 use handlebars::Handlebars;
 use regex::Regex;
+use serde::{Serialize, Deserialize};
 use serde_yaml::Value;
 use std::error::Error;
 use std::ffi::OsStr;
@@ -23,11 +26,14 @@ fn main() -> Result<(), Box<dyn Error>> {
                           .about("Cookbook build tool")
                           .setting(AppSettings::ArgRequiredElseHelp)
                           .subcommand(SubCommand::with_name("apply")
-                                      .about("generates md form yml and writes that to disk, overwriting existing files"))
+                                      .about("generates md from yml and writes that to disk, overwriting existing files"))
+                          .subcommand(SubCommand::with_name("export")
+                                      .about("generates single-file json from yml and writes that to disk, overwriting if existing"))
                           .get_matches();
 
     match matches.subcommand() {
         ("apply", _) => apply(),
+        ("export", _) => export(),
         _ => unreachable!()
     }
 }
@@ -45,6 +51,26 @@ fn apply() -> Result<(), Box<dyn Error>> {
     }
     Ok(())
 
+}
+
+fn export() -> Result<(), Box<dyn Error>> {
+    let recipes = load_data()?;
+    let cookbook = Cookbook::new(recipes);
+    let filename = Path::new("../cookbook.json");
+    let mut out_file = ensure_file(&filename);
+    out_file.write_all(&serde_json::to_vec(&cookbook)?)?;
+    Ok(())
+}
+
+#[derive(Serialize, Deserialize)]
+struct Cookbook {
+    recipes: Vec<Value>,
+}
+
+impl Cookbook {
+    fn new(recipes: Vec<Value>) -> Cookbook {
+        Cookbook{ recipes }
+    }
 }
 
 struct Renderer {
