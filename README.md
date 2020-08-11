@@ -165,6 +165,7 @@ Some recipes are still wip or just placeholders, be patient!
 - [piadina](https://github.com/caligin/actual-cookbook/tree/master/other/piadina.md)
 - [pizza dough](https://github.com/caligin/actual-cookbook/tree/master/other/pizza-dough.md)
 - [portobello gratin](https://github.com/caligin/actual-cookbook/tree/master/other/portobello-gratin.md)
+- [ppajeori](https://github.com/caligin/actual-cookbook/tree/master/other/ppajeori.md)
 - [sichuan aubergine stirfry](https://github.com/caligin/actual-cookbook/tree/master/other/sichuan-aubergine-stirfry.md)
 - [soft boiled egg](https://github.com/caligin/actual-cookbook/tree/master/other/soft-boiled-egg.md)
 - [tempura tech](https://github.com/caligin/actual-cookbook/tree/master/other/tempura-tech.md)
@@ -195,6 +196,7 @@ Some recipes are still wip or just placeholders, be patient!
 - [gyoza sauce](https://github.com/caligin/actual-cookbook/tree/master/sauce/gyoza-sauce.md)
 - [hotsweet ribs glaze](https://github.com/caligin/actual-cookbook/tree/master/sauce/hotsweet-ribs-glaze.md)
 - [okonomi sauce](https://github.com/caligin/actual-cookbook/tree/master/sauce/okonomi-sauce.md)
+- [ssamjang](https://github.com/caligin/actual-cookbook/tree/master/sauce/ssamjang.md)
 - [teriyaki](https://github.com/caligin/actual-cookbook/tree/master/sauce/teriyaki.md)
 
 ### sweets

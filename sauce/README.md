@@ -7,4 +7,5 @@
 - gyoza sauce
 - hotsweet ribs glaze
 - okonomi sauce
+- ssamjang
 - teriyaki
