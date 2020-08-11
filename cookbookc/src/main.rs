@@ -4,7 +4,7 @@ extern crate serde_yaml;
 extern crate serde_json;
 extern crate clap;
 
-use clap::{App, AppSettings, SubCommand};
+use clap::{App, AppSettings, Arg, SubCommand};
 use handlebars::Handlebars;
 use regex::Regex;
 use serde::{Serialize, Deserialize};
@@ -29,11 +29,16 @@ fn main() -> Result<(), Box<dyn Error>> {
                                       .about("generates md from yml and writes that to disk, overwriting existing files"))
                           .subcommand(SubCommand::with_name("export")
                                       .about("generates single-file json from yml and writes that to disk, overwriting if existing"))
+                          .subcommand(SubCommand::with_name("new")
+                                      .arg(Arg::with_name("section").required(true))
+                                      .arg(Arg::with_name("title").required(true))
+                                      .about("generates a yml skeleton for a new recipe"))
                           .get_matches();
 
     match matches.subcommand() {
         ("apply", _) => apply(),
         ("export", _) => export(),
+        ("new", Some(args)) => new(args.value_of("section").unwrap(), args.value_of("title").unwrap()),
         _ => unreachable!()
     }
 }
@@ -62,6 +67,15 @@ fn export() -> Result<(), Box<dyn Error>> {
     Ok(())
 }
 
+fn new(section: &str, title: &str) -> Result<(), Box<dyn Error>> {
+    let renderer = Renderer::new();
+    let filename = Path::new("../src/").join(translate_filename_component(title) + ".yml");
+    let mut out_file = ensure_file(&filename);
+    let recipe_src_yml = renderer.render_recipe_src(&NewRecipeArgs::new(section, title))?;
+    out_file.write_all(recipe_src_yml.as_bytes())?;
+    Ok(())
+}
+
 #[derive(Serialize, Deserialize)]
 struct Cookbook {
     recipes: Vec<Value>,
@@ -70,6 +84,18 @@ struct Cookbook {
 impl Cookbook {
     fn new(recipes: Vec<Value>) -> Cookbook {
         Cookbook{ recipes }
+    }
+}
+
+#[derive(Serialize)]
+struct NewRecipeArgs {
+    section: String,
+    title: String,
+}
+
+impl NewRecipeArgs {
+    fn new(section: &str, title: &str) -> NewRecipeArgs {
+        NewRecipeArgs{ title: title.to_owned(), section: section.to_owned() }
     }
 }
 
@@ -82,11 +108,17 @@ impl Renderer {
         let mut reg = Handlebars::new();
         reg.register_template_string("recipe", include_str!("recipe.md.tpl"))
             .unwrap();
+        reg.register_template_string("recipe-src", include_str!("recipe-src.yml.tpl"))
+            .unwrap();
         Renderer {templates: reg}
     }
 
     fn render_recipe(&self, recipe: &Value) -> Result<String, Box<dyn Error>> {
         Ok(format!("{}", self.templates.render("recipe", recipe)?))
+    }
+
+    fn render_recipe_src(&self, new_recipe: &NewRecipeArgs) -> Result<String, Box<dyn Error>> {
+        Ok(format!("{}", self.templates.render("recipe-src", new_recipe)?))
     }
 }
 
