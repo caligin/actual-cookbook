@@ -15,6 +15,7 @@
 - bothainical garden
 - boulevardier
 - bourbon sour
+- casino
 - celery gose
 - clover club
 - coffee liqueur
@@ -32,6 +33,10 @@
 - mana potion
 - manhattan
 - mezcal sour
+- mezcal substitute
+- mezver
+- millionaire-martini
+- miss-kinesis
 - naked and famous
 - negroni
 - paloma
@@ -48,6 +53,7 @@
 - spanish russian
 - sugar syrup
 - tangerine stout
+- that weird orange cocktail
 - truffle stout
 - udp - unexpectedly, dark pale!
 - vesper

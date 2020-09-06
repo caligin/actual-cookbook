@@ -10,6 +10,7 @@
 - harissa snapper
 - lemon salmon
 - nduja cod
+- prawn fritolin
 - sarde in savor
 - shioyaki mackerel
 - shrimp and basil stir fry

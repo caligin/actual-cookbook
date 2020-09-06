@@ -1,0 +1,19 @@
+# prawn fritolin
+
+fritolin is a battered fry of mixed small fishos. this version is just with prawns - because that's what we got on the day but you can throw anything bite size in it really
+
+## ingredients
+
+- 400g prawns
+- 1 egg white
+- 175g flour
+- 280ml soda
+
+## preparation
+
+mix egg, flour and soda in a bowl and rest covered in the fridge for 30m.
+
+heat frier at 190C, dip fish in batter, lighlty drain and fry for ~90s
+
+## notes
+

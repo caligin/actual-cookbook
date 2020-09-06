@@ -3,6 +3,7 @@
 ## table of contents
 
 - bacon roast
+- bbq rack of pork ribs
 - char siu
 - chasfoo
 - cheatcode curry

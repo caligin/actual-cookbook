@@ -54,6 +54,7 @@ Some recipes are still wip or just placeholders, be patient!
 - [bothainical garden](https://github.com/caligin/actual-cookbook/tree/master/drinks/bothainical-garden.md)
 - [boulevardier](https://github.com/caligin/actual-cookbook/tree/master/drinks/boulevardier.md)
 - [bourbon sour](https://github.com/caligin/actual-cookbook/tree/master/drinks/bourbon-sour.md)
+- [casino](https://github.com/caligin/actual-cookbook/tree/master/drinks/casino.md)
 - [celery gose](https://github.com/caligin/actual-cookbook/tree/master/drinks/celery-gose.md)
 - [clover club](https://github.com/caligin/actual-cookbook/tree/master/drinks/clover-club.md)
 - [coffee liqueur](https://github.com/caligin/actual-cookbook/tree/master/drinks/coffee-liqueur.md)
@@ -71,6 +72,10 @@ Some recipes are still wip or just placeholders, be patient!
 - [mana potion](https://github.com/caligin/actual-cookbook/tree/master/drinks/mana-potion.md)
 - [manhattan](https://github.com/caligin/actual-cookbook/tree/master/drinks/manhattan.md)
 - [mezcal sour](https://github.com/caligin/actual-cookbook/tree/master/drinks/mezcal-sour.md)
+- [mezcal substitute](https://github.com/caligin/actual-cookbook/tree/master/drinks/mezcal-substitute.md)
+- [mezver](https://github.com/caligin/actual-cookbook/tree/master/drinks/mezver.md)
+- [millionaire-martini](https://github.com/caligin/actual-cookbook/tree/master/drinks/millionaire-martini.md)
+- [miss-kinesis](https://github.com/caligin/actual-cookbook/tree/master/drinks/miss-kinesis.md)
 - [naked and famous](https://github.com/caligin/actual-cookbook/tree/master/drinks/naked-and-famous.md)
 - [negroni](https://github.com/caligin/actual-cookbook/tree/master/drinks/negroni.md)
 - [paloma](https://github.com/caligin/actual-cookbook/tree/master/drinks/paloma.md)
@@ -87,6 +92,7 @@ Some recipes are still wip or just placeholders, be patient!
 - [spanish russian](https://github.com/caligin/actual-cookbook/tree/master/drinks/spanish-russian.md)
 - [sugar syrup](https://github.com/caligin/actual-cookbook/tree/master/drinks/sugar-syrup.md)
 - [tangerine stout](https://github.com/caligin/actual-cookbook/tree/master/drinks/tangerine-stout.md)
+- [that weird orange cocktail](https://github.com/caligin/actual-cookbook/tree/master/drinks/that-weird-orange-cocktail.md)
 - [truffle stout](https://github.com/caligin/actual-cookbook/tree/master/drinks/truffle-stout.md)
 - [udp - unexpectedly, dark pale!](https://github.com/caligin/actual-cookbook/tree/master/drinks/udp-unexpectedly-dark-pale.md)
 - [vesper](https://github.com/caligin/actual-cookbook/tree/master/drinks/vesper.md)
@@ -105,6 +111,7 @@ Some recipes are still wip or just placeholders, be patient!
 - [harissa snapper](https://github.com/caligin/actual-cookbook/tree/master/fish/harissa-snapper.md)
 - [lemon salmon](https://github.com/caligin/actual-cookbook/tree/master/fish/lemon-salmon.md)
 - [nduja cod](https://github.com/caligin/actual-cookbook/tree/master/fish/nduja-cod.md)
+- [prawn fritolin](https://github.com/caligin/actual-cookbook/tree/master/fish/prawn-fritolin.md)
 - [sarde in savor](https://github.com/caligin/actual-cookbook/tree/master/fish/sarde-in-savor.md)
 - [shioyaki mackerel](https://github.com/caligin/actual-cookbook/tree/master/fish/shioyaki-mackerel.md)
 - [shrimp and basil stir fry](https://github.com/caligin/actual-cookbook/tree/master/fish/shrimp-and-basil-stir-fry.md)
@@ -113,6 +120,7 @@ Some recipes are still wip or just placeholders, be patient!
 ### meat
 
 - [bacon roast](https://github.com/caligin/actual-cookbook/tree/master/meat/bacon-roast.md)
+- [bbq rack of pork ribs](https://github.com/caligin/actual-cookbook/tree/master/meat/bbq-rack-of-pork-ribs.md)
 - [char siu](https://github.com/caligin/actual-cookbook/tree/master/meat/char-siu.md)
 - [chasfoo](https://github.com/caligin/actual-cookbook/tree/master/meat/chasfoo.md)
 - [cheatcode curry](https://github.com/caligin/actual-cookbook/tree/master/meat/cheatcode-curry.md)
@@ -191,11 +199,16 @@ Some recipes are still wip or just placeholders, be patient!
 
 ### sauce
 
+- [agua-de-lourdes](https://github.com/caligin/actual-cookbook/tree/master/sauce/agua-de-lourdes.md)
+- [bbq-glaze](https://github.com/caligin/actual-cookbook/tree/master/sauce/bbq-glaze.md)
 - [char siu marinade](https://github.com/caligin/actual-cookbook/tree/master/sauce/char-siu-marinade.md)
 - [doubanjang rib glaze](https://github.com/caligin/actual-cookbook/tree/master/sauce/doubanjang-rib-glaze.md)
 - [gyoza sauce](https://github.com/caligin/actual-cookbook/tree/master/sauce/gyoza-sauce.md)
 - [hotsweet ribs glaze](https://github.com/caligin/actual-cookbook/tree/master/sauce/hotsweet-ribs-glaze.md)
+- [ikayaki-korean-style](https://github.com/caligin/actual-cookbook/tree/master/sauce/ikayaki-korean-style.md)
 - [okonomi sauce](https://github.com/caligin/actual-cookbook/tree/master/sauce/okonomi-sauce.md)
+- [samgyeopsal galbi-ish](https://github.com/caligin/actual-cookbook/tree/master/sauce/samgyeopsal-galbi-ish.md)
+- [samgyeopsal gochuchang](https://github.com/caligin/actual-cookbook/tree/master/sauce/samgyeopsal-gochuchang.md)
 - [ssamjang](https://github.com/caligin/actual-cookbook/tree/master/sauce/ssamjang.md)
 - [teriyaki](https://github.com/caligin/actual-cookbook/tree/master/sauce/teriyaki.md)
 
