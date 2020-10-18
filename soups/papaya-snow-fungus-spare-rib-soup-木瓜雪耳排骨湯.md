@@ -27,9 +27,9 @@ Rinse the candied dates.
 
 Prepare the papaya-remove the skin and seeds and cut into chunks.
 
-Boil a large pot of water and place the ribs in for around 5-10 minutest to purge the blood and any nasties.
+Bring a cold pot of water to the boil with the ribs in it, once it's boiling leave for 5-10 minutest to purge the blood and any nasties.
 
-Take out the ribs, rinse them under cold water-make sure to wash off any blood and set aside. Pour away the water from the pot,
+Take out the ribs, rinse them under cold water - make sure to wash off any blood and set aside. Pour away the water from the pot,
 rinse the pot and replenish with 1.5L of water. Bring water to a boil.
 
 Place ribs, apricot kernels, snow fungus and candied dates into the boiling water, let it come to a boil. Let it simmer on medium heat for 1 hour.
