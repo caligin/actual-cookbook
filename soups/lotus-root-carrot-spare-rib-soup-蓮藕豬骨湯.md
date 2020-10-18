@@ -1,4 +1,4 @@
-# lotus root carrot spare rib soup
+# lotus root carrot spare rib soup (蓮藕豬骨湯)
 
 Tasty, savoury soup that is comforting to have during the colder months.
 
