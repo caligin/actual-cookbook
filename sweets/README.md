@@ -10,5 +10,6 @@
 - carrot loaf cake
 - chocolate chip cookies
 - lemon poppy seed cake
+- mango cheesecake
 - panna cotta
 - tiramisu

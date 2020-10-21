@@ -135,6 +135,7 @@ Some recipes are still wip or just placeholders, be patient!
 - [green pepper fillet](https://github.com/caligin/actual-cookbook/tree/master/meat/green-pepper-fillet.md)
 - [grilled spicy pork meatballs](https://github.com/caligin/actual-cookbook/tree/master/meat/grilled-spicy-pork-meatballs.md)
 - [herrburger](https://github.com/caligin/actual-cookbook/tree/master/meat/herrburger.md)
+- [hk-style bbq chicken wings](https://github.com/caligin/actual-cookbook/tree/master/meat/hk-style-bbq-chicken-wings.md)
 - [juicy karaage number one](https://github.com/caligin/actual-cookbook/tree/master/meat/juicy-karaage-number-one.md)
 - [lamb salsa 00ff00](https://github.com/caligin/actual-cookbook/tree/master/meat/lamb-salsa-00ff00.md)
 - [low-fi chicken](https://github.com/caligin/actual-cookbook/tree/master/meat/low-fi-chicken.md)
@@ -212,6 +213,11 @@ Some recipes are still wip or just placeholders, be patient!
 - [ssamjang](https://github.com/caligin/actual-cookbook/tree/master/sauce/ssamjang.md)
 - [teriyaki](https://github.com/caligin/actual-cookbook/tree/master/sauce/teriyaki.md)
 
+### soups
+
+- [lotus root carrot spare rib soup (蓮藕豬骨湯)](https://github.com/caligin/actual-cookbook/tree/master/soups/lotus-root-carrot-spare-rib-soup-蓮藕豬骨湯.md)
+- [papaya snow fungus spare rib soup (木瓜雪耳排骨湯)](https://github.com/caligin/actual-cookbook/tree/master/soups/papaya-snow-fungus-spare-rib-soup-木瓜雪耳排骨湯.md)
+
 ### sweets
 
 - [aftermash cookies](https://github.com/caligin/actual-cookbook/tree/master/sweets/aftermash-cookies.md)
@@ -222,6 +228,7 @@ Some recipes are still wip or just placeholders, be patient!
 - [carrot loaf cake](https://github.com/caligin/actual-cookbook/tree/master/sweets/carrot-loaf-cake.md)
 - [chocolate chip cookies](https://github.com/caligin/actual-cookbook/tree/master/sweets/chocolate-chip-cookies.md)
 - [lemon poppy seed cake](https://github.com/caligin/actual-cookbook/tree/master/sweets/lemon-poppy-seed-cake.md)
+- [mango cheesecake](https://github.com/caligin/actual-cookbook/tree/master/sweets/mango-cheesecake.md)
 - [panna cotta](https://github.com/caligin/actual-cookbook/tree/master/sweets/panna-cotta.md)
 - [tiramisu](https://github.com/caligin/actual-cookbook/tree/master/sweets/tiramisu.md)
 

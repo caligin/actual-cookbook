@@ -18,6 +18,7 @@
 - green pepper fillet
 - grilled spicy pork meatballs
 - herrburger
+- hk-style bbq chicken wings
 - juicy karaage number one
 - lamb salsa 00ff00
 - low-fi chicken
