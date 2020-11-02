@@ -141,6 +141,7 @@ Some recipes are still wip or just placeholders, be patient!
 - [low-fi chicken](https://github.com/caligin/actual-cookbook/tree/master/meat/low-fi-chicken.md)
 - [maboroshi tebasaki chicken](https://github.com/caligin/actual-cookbook/tree/master/meat/maboroshi-tebasaki-chicken.md)
 - [mushroom wok chicken](https://github.com/caligin/actual-cookbook/tree/master/meat/mushroom-wok-chicken.md)
+- [ossobuco with saffron risotto](https://github.com/caligin/actual-cookbook/tree/master/meat/ossobuco-with-saffron-risotto.md)
 - [randomest curry](https://github.com/caligin/actual-cookbook/tree/master/meat/randomest-curry.md)
 - [savory glazed chicken](https://github.com/caligin/actual-cookbook/tree/master/meat/savory-glazed-chicken.md)
 - [softballs](https://github.com/caligin/actual-cookbook/tree/master/meat/softballs.md)

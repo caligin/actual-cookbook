@@ -24,6 +24,7 @@
 - low-fi chicken
 - maboroshi tebasaki chicken
 - mushroom wok chicken
+- ossobuco with saffron risotto
 - randomest curry
 - savory glazed chicken
 - softballs
