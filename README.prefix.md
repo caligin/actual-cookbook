@@ -33,6 +33,41 @@ More than one course is probably not happening if you're cooking yourself so stu
 
 Some recipes are still wip or just placeholders, be patient!
 
+## using cookbookc
+
+`./cookbookc/` contains an editing tool that provides yml templating and conversion to md.
+it's now the preferred tool to provide templating for source yml files and conversion to markdown.
+
+at the time of writing the tool is still very limited and requires a rust toolchain installed (refer to [rust's website](https://www.rust-lang.org/learn/get-started)) and running it from the `./cookbookc/` directory.
+
+### workflow with `cookbookc`
+
+all in `./cookbookc/` directory:
+
+#### create new yml template
+
+`./cargo run new <recipe section> <title of recipe>`
+
+use quotes around the title if you want spaces, this will generate a new file in `./src`.
+
+#### regenerate all yml to md
+
+`./cargo run apply`
+
+#### regenerate ToC
+
+from root dir:
+
+`make README.md`
+
+this is still not implemented and uses the old Makefile instead
+
+#### regenerate json export
+
+`./cargo run export`
+
+this is used to publish to [cookbook.protocol.kitchen](https://cookbook.protocol.kitchen)
+
 ## Conversions
 
 | WEIGHT      |      |     |     |   

@@ -15,3 +15,4 @@
 - shioyaki mackerel
 - shrimp and basil stir fry
 - teriyaki salmon
+- thai-spicy-fried-fish
