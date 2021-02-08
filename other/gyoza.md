@@ -2,25 +2,24 @@
 
 From: [How to Make Yaki Gyoza (Fried Dumpling Recipe) | Cooking with Dog](https://youtu.be/r8MBX-SXnmg)
 
-Serves: 2
+Serves: 2 for a while
 
 ## ingredients
 
-- 100g cabbage
-- 50g onion
-- 50g chives
-- 120g pork mince
-- 3 cloves garlic
-- 1 inch piece ginger
-- 1/2 spn soysauce
-- 1/2 spn sugar
+- 200g cabbage
+- 100g onion
+- 100g chives
+- 250g pork mince
+- 6 cloves garlic
+- 2 inch piece ginger
+- 2 spn potato starch
+- 1 spn sugar
 - pepper pepper pepper
-- 1 spn sake
-- 1/2 spn sesame oil
-- 1 spn potato starch
-- 1/2 spn oyster sauce
-- 25 Gyoza Wrappers
-- Flour for dusting
+- 1 spn soysauce
+- 2 spn sake
+- 1 spn sesame oil
+- 1 spn oyster sauce
+- 75 Gyoza Wrappers
 
 ## preparation
 
@@ -30,15 +29,18 @@ mix in a bowl pork mince, grated garlic, grated ginger, soysauce, sugar, pepper,
 
 add cabbage, onion, chives and mix again until uniform. cover with clingfilm and let rest for at least 10-15 minutes
 
-dust flour on a tray and keeping a bowl of water for the seals, compose the gyozas scopping a spoon in each shell, applying some water around the edges and closing it.
+line parchment paper on a tray and keeping a bowl of water for the seals, compose the gyozas scopping a spoon in each shell, applying some water around the edges and closing it.
 
 prepared boiling water. heat a pan and coat with some sesame oil.
 add gyozas, add hot water until half covered and close with a lid. cook for 4-5 minutes (or until all water evaporated), remove the lid, drizzle with some more sesame oil and cook for 2 more minutes.
 
+![gyoza](https://github.com/caligin/actual-cookbook/blob/master/img/gyoza.jpg "gyoza")
+
 ## notes
 
-I had no idea how garlic chives tasted like and had none at hand so tried replacing with leek. Don't to this. Leek is quite out of place in this recipe tbh. I still have no idea what to use instead of chives, PR welcome lol.
+these freeze very well, hence why the recipe is for such a big batch
+
+if you can't get your hands on chives try with the green part of scallions. chinese chives are the best option if you can find them. I once tried to replace with leek - don't do that that's stupid it just tastes so wrong.
 
 The pre-made frozen gyoza wrapes are super convenient and I think you can find them in any asian supermarket. Look out for the last 2-3 at the bottom of the pack that tend to stick together once you get them out of the freezer.
-
-oyster sauce can be replaced with worchestershire sauce
+if you use frozen wrappers, thaw them in the fridge first overnight then at room temp or they will tear horribly
